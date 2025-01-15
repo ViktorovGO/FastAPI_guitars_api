@@ -2,3 +2,4 @@
 __pychache/
 *.env
 pgdata
+.vscode/
