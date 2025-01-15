@@ -1,7 +1,7 @@
 from fastapi import Depends, Path, HTTPException
 from typing import Annotated
 from sqlalchemy.ext.asyncio import AsyncSession
-from app.db import db_helper
+from src.db import db_helper
 from .models import Brand
 
 async def brand_by_id(

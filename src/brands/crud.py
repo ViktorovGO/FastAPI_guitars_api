@@ -3,7 +3,7 @@ from sqlalchemy import select, delete
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.engine import Result
 from .models import Brand
-from app.guitars.models import Guitar
+from src.guitars.models import Guitar
 from .scemas import BrandCreate, BrandUpdate, BrandUpdatePartial
 
 

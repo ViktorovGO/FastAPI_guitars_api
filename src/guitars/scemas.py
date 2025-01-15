@@ -3,9 +3,9 @@ from typing import Annotated
 
 
 class GuitarBase(BaseModel):
-    article: str
+    article: Annotated[str, Field(..., min_length=1, max_length=20)]
     brand_id: Annotated[int, Field(ge=0)]
-    title: str
+    title: Annotated[str, Field(..., min_length=1, max_length=100)]
     price: Annotated[int, Field(ge=0)]
 
 

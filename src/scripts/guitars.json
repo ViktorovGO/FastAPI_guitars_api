@@ -12,16 +12,10 @@
         "price": "3430"
     },
     {
-        "article": "A144069",
-        "brand": "BELUCCI",
-        "title": "Belucci BC-C38 BRN",
-        "price": "3497"
-    },
-    {
-        "article": "A144073",
-        "brand": "BELUCCI",
-        "title": "Belucci BC-C38 RDS",
-        "price": "3497"
+        "article": "A197908",
+        "brand": "Foix",
+        "title": "Foix 38C-M-3TS",
+        "price": "3570"
     },
     {
         "article": "A197902",
@@ -30,75 +24,27 @@
         "price": "3570"
     },
     {
-        "article": "A197908",
-        "brand": "Foix",
-        "title": "Foix 38C-M-3TS",
-        "price": "3570"
-    },
-    {
-        "article": "A121771",
+        "article": "A144074",
         "brand": "BELUCCI",
-        "title": "Belucci BC3820 N",
-        "price": "3730"
+        "title": "Belucci BC-C38 SKY",
+        "price": "3572"
     },
     {
-        "article": "A121773",
+        "article": "A144073",
         "brand": "BELUCCI",
-        "title": "Belucci BC3820 BK",
-        "price": "3730"
+        "title": "Belucci BC-C38 RDS",
+        "price": "3572"
     },
     {
-        "article": "A121802",
+        "article": "A144069",
         "brand": "BELUCCI",
-        "title": "Belucci BC3820 WH",
-        "price": "3730"
+        "title": "Belucci BC-C38 BRN",
+        "price": "3572"
     },
     {
-        "article": "A121777",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3810 BK",
-        "price": "3730"
-    },
-    {
-        "article": "A121772",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3820 SB(BS)",
-        "price": "3730"
-    },
-    {
-        "article": "A121770",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3820 RDS",
-        "price": "3730"
-    },
-    {
-        "article": "A121804",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3820 GR",
-        "price": "3730"
-    },
-    {
-        "article": "A121775",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3810 N",
-        "price": "3730"
-    },
-    {
-        "article": "A121776",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3810 BS(SB)",
-        "price": "3730"
-    },
-    {
-        "article": "A196202",
+        "article": "A196197",
         "brand": "Stairtone",
-        "title": "Stairtone A-38C WH",
-        "price": "3804"
-    },
-    {
-        "article": "A196199",
-        "brand": "Stairtone",
-        "title": "Stairtone A-38C NA",
+        "title": "Stairtone A-38C BK",
         "price": "3804"
     },
     {
@@ -108,9 +54,21 @@
         "price": "3804"
     },
     {
+        "article": "A196202",
+        "brand": "Stairtone",
+        "title": "Stairtone A-38C WH",
+        "price": "3804"
+    },
+    {
         "article": "A196198",
         "brand": "Stairtone",
         "title": "Stairtone A-38C BL",
+        "price": "3804"
+    },
+    {
+        "article": "A196199",
+        "brand": "Stairtone",
+        "title": "Stairtone A-38C NA",
         "price": "3804"
     },
     {
@@ -120,10 +78,64 @@
         "price": "3804"
     },
     {
-        "article": "A196197",
-        "brand": "Stairtone",
-        "title": "Stairtone A-38C BK",
-        "price": "3804"
+        "article": "A121804",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 GR",
+        "price": "3811"
+    },
+    {
+        "article": "A121776",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3810 BS(SB)",
+        "price": "3811"
+    },
+    {
+        "article": "A121775",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3810 N",
+        "price": "3811"
+    },
+    {
+        "article": "A121770",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 RDS",
+        "price": "3811"
+    },
+    {
+        "article": "A121772",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 SB(BS)",
+        "price": "3811"
+    },
+    {
+        "article": "A121802",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 WH",
+        "price": "3811"
+    },
+    {
+        "article": "A121773",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 BK",
+        "price": "3811"
+    },
+    {
+        "article": "A121777",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3810 BK",
+        "price": "3811"
+    },
+    {
+        "article": "A121771",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3820 N",
+        "price": "3811"
+    },
+    {
+        "article": "A097785",
+        "brand": "PRADO",
+        "title": "PRADO HS - 3810 / NA",
+        "price": "4085"
     },
     {
         "article": "A097784",
@@ -132,142 +144,106 @@
         "price": "4085"
     },
     {
-        "article": "A197905",
-        "brand": "Foix",
-        "title": "Foix FFG-2038C-NA",
-        "price": "4120"
-    },
-    {
-        "article": "A209815",
+        "article": "A191189",
         "brand": "BELUCCI",
-        "title": "Belucci BC3805 BLS",
-        "price": "4352"
+        "title": "Belucci BC3820 GR",
+        "price": "4208"
     },
     {
         "article": "A209811",
         "brand": "BELUCCI",
         "title": "Belucci BC3805 VTS",
-        "price": "4352"
+        "price": "4446"
     },
     {
-        "article": "A121810",
+        "article": "A209815",
         "brand": "BELUCCI",
-        "title": "Belucci BC4010BK",
-        "price": "4586"
-    },
-    {
-        "article": "A144022",
-        "brand": "BELUCCI",
-        "title": "Belucci BC4020 BS (SB)",
-        "price": "4586"
-    },
-    {
-        "article": "A121799",
-        "brand": "BELUCCI",
-        "title": "Belucci BC4010 BLS",
-        "price": "4586"
+        "title": "Belucci BC3805 BLS",
+        "price": "4446"
     },
     {
         "article": "A121795",
         "brand": "BELUCCI",
         "title": "Belucci BC4010 PI",
-        "price": "4586"
+        "price": "4684"
+    },
+    {
+        "article": "A144022",
+        "brand": "BELUCCI",
+        "title": "Belucci BC4020 BS (SB)",
+        "price": "4684"
     },
     {
         "article": "A133309",
         "brand": "BELUCCI",
         "title": "Belucci BC 4020 BLS",
-        "price": "4586"
+        "price": "4684"
     },
     {
         "article": "A133308",
         "brand": "BELUCCI",
         "title": "Belucci BC 4020 RDS",
-        "price": "4586"
+        "price": "4684"
     },
     {
-        "article": "A198444",
+        "article": "A121799",
         "brand": "BELUCCI",
-        "title": "Belucci BC4020 PI Акустическая гитара",
-        "price": "4586"
+        "title": "Belucci BC4010 BLS",
+        "price": "4684"
     },
     {
         "article": "A144023",
         "brand": "BELUCCI",
         "title": "Belucci BC4020 GR",
-        "price": "4586"
+        "price": "4684"
+    },
+    {
+        "article": "A198444",
+        "brand": "BELUCCI",
+        "title": "Belucci BC4020 PI Акустическая гитара",
+        "price": "4684"
+    },
+    {
+        "article": "A121810",
+        "brand": "BELUCCI",
+        "title": "Belucci BC4010BK",
+        "price": "4684"
     },
     {
         "article": "A209797",
         "brand": "BELUCCI",
         "title": "Belucci BCL4010 PG",
-        "price": "4593"
-    },
-    {
-        "article": "A121789",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3830 GR",
-        "price": "4663"
-    },
-    {
-        "article": "A121787",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3830 VTS",
-        "price": "4663"
+        "price": "4692"
     },
     {
         "article": "A121801",
         "brand": "BELUCCI",
         "title": "Belucci BC3830 BLS (Ocean)",
-        "price": "4663"
+        "price": "4764"
     },
     {
         "article": "A121788",
         "brand": "BELUCCI",
         "title": "Belucci BC3830 RDS (Fire)",
-        "price": "4663"
+        "price": "4764"
+    },
+    {
+        "article": "A121789",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3830 GR",
+        "price": "4764"
     },
     {
         "article": "A121800",
         "brand": "BELUCCI",
         "title": "Belucci BC3830 SB (Tiger)",
-        "price": "4663"
+        "price": "4764"
     },
     {
-        "article": "A209809",
+        "article": "A121787",
         "brand": "BELUCCI",
-        "title": "Belucci BC3905 BK",
-        "price": "4819"
-    },
-    {
-        "article": "A121782",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3840 1351 (Wolf)",
-        "price": "4876"
-    },
-    {
-        "article": "A121783",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3840 1350 (Rock)",
-        "price": "4876"
-    },
-    {
-        "article": "A121786",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3840 1347 (Lone)",
-        "price": "4876"
-    },
-    {
-        "article": "A121781",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3840 1424 (Music)",
-        "price": "4876"
-    },
-    {
-        "article": "A121785",
-        "brand": "BELUCCI",
-        "title": "Belucci BC3840 1348 (Devil)",
-        "price": "4876"
+        "title": "Belucci BC3830 VTS",
+        "price": "4764"
     },
     {
         "article": "A197897",
@@ -276,16 +252,46 @@
         "price": "4890"
     },
     {
+        "article": "A209809",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3905 BK",
+        "price": "4922"
+    },
+    {
         "article": "A197886",
         "brand": "Foix",
         "title": "Foix FFG-4001C-NAT",
         "price": "4930"
     },
     {
-        "article": "A196230",
-        "brand": "NF",
-        "title": "NF Guitars NF-38C NT",
-        "price": "4990"
+        "article": "A121786",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3840 1347 (Lone)",
+        "price": "4980"
+    },
+    {
+        "article": "A121783",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3840 1350 (Rock)",
+        "price": "4980"
+    },
+    {
+        "article": "A121782",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3840 1351 (Wolf)",
+        "price": "4980"
+    },
+    {
+        "article": "A121785",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3840 1348 (Devil)",
+        "price": "4980"
+    },
+    {
+        "article": "A121781",
+        "brand": "BELUCCI",
+        "title": "Belucci BC3840 1424 (Music)",
+        "price": "4980"
     },
     {
         "article": "A098096",
@@ -306,12 +312,6 @@
         "price": "5315"
     },
     {
-        "article": "A197896",
-        "brand": "Foix",
-        "title": "Foix FFG-2038CAP-BK",
-        "price": "5410"
-    },
-    {
         "article": "A097744",
         "brand": "COLOMBO",
         "title": "COLOMBO LF - 3801 / N",
@@ -321,43 +321,43 @@
         "article": "A121779",
         "brand": "BELUCCI",
         "title": "Belucci BC4030 GR",
-        "price": "5441"
+        "price": "5558"
     },
     {
         "article": "A144076",
         "brand": "FABIO",
         "title": "Fabio FB-38E",
-        "price": "5512"
-    },
-    {
-        "article": "A198451",
-        "brand": "BELUCCI",
-        "title": "Belucci BC4040 1567 (Rock) Акустическая гитара",
-        "price": "5519"
+        "price": "5630"
     },
     {
         "article": "A198452",
         "brand": "BELUCCI",
         "title": "Belucci BC4040 1568 (Skelet) Акустическая гитара",
-        "price": "5519"
+        "price": "5637"
     },
     {
-        "article": "A144078",
-        "brand": "FABIO",
-        "title": "Fabio FB-D38S Sapele",
-        "price": "5519"
+        "article": "A198451",
+        "brand": "BELUCCI",
+        "title": "Belucci BC4040 1567 (Rock) Акустическая гитара",
+        "price": "5637"
     },
     {
         "article": "A198448",
         "brand": "BELUCCI",
         "title": "Belucci BC4040 1564 (Devil) Акустическая гитара",
-        "price": "5519"
+        "price": "5637"
     },
     {
-        "article": "A197781",
-        "brand": "Foix",
-        "title": "Foix FFG-2039CAP-SB",
-        "price": "5790"
+        "article": "A198449",
+        "brand": "BELUCCI",
+        "title": "Belucci BC4040 1565 (Lone) Акустическая гитара",
+        "price": "5637"
+    },
+    {
+        "article": "A144078",
+        "brand": "FABIO",
+        "title": "Fabio FB-D38S Sapele",
+        "price": "5637"
     },
     {
         "article": "A197791",
@@ -366,9 +366,15 @@
         "price": "5790"
     },
     {
-        "article": "A097738",
+        "article": "A197781",
+        "brand": "Foix",
+        "title": "Foix FFG-2039CAP-SB",
+        "price": "5790"
+    },
+    {
+        "article": "A097740",
         "brand": "COLOMBO",
-        "title": "COLOMBO LF - 3800 / BK",
+        "title": "COLOMBO LF - 3800 / SB",
         "price": "5945"
     },
     {
@@ -378,16 +384,16 @@
         "price": "5945"
     },
     {
+        "article": "A097738",
+        "brand": "COLOMBO",
+        "title": "COLOMBO LF - 3800 / BK",
+        "price": "5945"
+    },
+    {
         "article": "A176221",
         "brand": "Homage",
         "title": "Homage LF-3800CT-N",
         "price": "6020"
-    },
-    {
-        "article": "A171231",
-        "brand": "TERRIS",
-        "title": "TERRIS TF-BK Starter Pack",
-        "price": "6190"
     },
     {
         "article": "A175088",
@@ -396,21 +402,21 @@
         "price": "6470"
     },
     {
-        "article": "A175946",
-        "brand": "Naranda",
-        "title": "Naranda CAG110CNA",
-        "price": "6510"
-    },
-    {
         "article": "A175281",
         "brand": "Naranda",
         "title": "Naranda CAG110BS",
         "price": "6510"
     },
     {
-        "article": "A097742",
+        "article": "A175946",
+        "brand": "Naranda",
+        "title": "Naranda CAG110CNA",
+        "price": "6510"
+    },
+    {
+        "article": "A099261",
         "brand": "COLOMBO",
-        "title": "COLOMBO LF - 3800 CT / TBK",
+        "title": "COLOMBO LF - 3800 CT / GS",
         "price": "6525"
     },
     {
@@ -420,16 +426,10 @@
         "price": "6525"
     },
     {
-        "article": "A099261",
+        "article": "A097742",
         "brand": "COLOMBO",
-        "title": "COLOMBO LF - 3800 CT / GS",
+        "title": "COLOMBO LF - 3800 CT / TBK",
         "price": "6525"
-    },
-    {
-        "article": "A190016",
-        "brand": "Foix",
-        "title": "Foix FFG-3039-SB",
-        "price": "6580"
     },
     {
         "article": "A098098",
@@ -444,27 +444,21 @@
         "price": "6700"
     },
     {
-        "article": "A169780",
-        "brand": "MARTIN ROMAS",
-        "title": "MARTIN ROMAS MR-440 RDS",
-        "price": "6890"
-    },
-    {
         "article": "A169897",
         "brand": "MARTIN ROMAS",
         "title": "MARTIN ROMAS MR-440 BK",
         "price": "6890"
     },
     {
-        "article": "A169636",
-        "brand": "MARTIN ROMAS",
-        "title": "MARTIN ROMAS MR-440 WH",
-        "price": "6890"
-    },
-    {
         "article": "A169544",
         "brand": "MARTIN ROMAS",
         "title": "MARTIN ROMAS MR-440 BLS",
+        "price": "6890"
+    },
+    {
+        "article": "A169636",
+        "brand": "MARTIN ROMAS",
+        "title": "MARTIN ROMAS MR-440 WH",
         "price": "6890"
     },
     {
@@ -480,15 +474,9 @@
         "price": "6990"
     },
     {
-        "article": "A101268",
+        "article": "A101269",
         "brand": "COLOMBO",
-        "title": "COLOMBO LF - 4100 / BK",
-        "price": "7140"
-    },
-    {
-        "article": "A101270",
-        "brand": "COLOMBO",
-        "title": "COLOMBO LF - 4100 / SB",
+        "title": "COLOMBO LF - 4100 / BL",
         "price": "7140"
     },
     {
@@ -498,135 +486,117 @@
         "price": "7140"
     },
     {
-        "article": "A101269",
+        "article": "A101270",
         "brand": "COLOMBO",
-        "title": "COLOMBO LF - 4100 / BL",
+        "title": "COLOMBO LF - 4100 / SB",
         "price": "7140"
     },
     {
-        "article": "A121818",
-        "brand": "ELITARO",
-        "title": "Elitaro E4010 SB",
-        "price": "7279"
-    },
-    {
-        "article": "A121813",
-        "brand": "ELITARO",
-        "title": "Elitaro E4010 BLS",
-        "price": "7279"
-    },
-    {
-        "article": "A121843",
-        "brand": "ELITARO",
-        "title": "Elitaro E4020 BLS",
-        "price": "7279"
-    },
-    {
-        "article": "A121848",
-        "brand": "ELITARO",
-        "title": "Elitaro E4020 WH",
-        "price": "7279"
-    },
-    {
-        "article": "A121846",
-        "brand": "ELITARO",
-        "title": "Elitaro E4020 RDS",
-        "price": "7279"
-    },
-    {
-        "article": "A121814",
-        "brand": "ELITARO",
-        "title": "Elitaro E4010 GR",
-        "price": "7279"
-    },
-    {
-        "article": "A121845",
-        "brand": "ELITARO",
-        "title": "Elitaro E4020 SB",
-        "price": "7279"
-    },
-    {
-        "article": "A121820",
-        "brand": "ELITARO",
-        "title": "Elitaro E4010 WH",
-        "price": "7279"
-    },
-    {
-        "article": "A121842",
-        "brand": "ELITARO",
-        "title": "Elitaro E4020 BK",
-        "price": "7279"
+        "article": "A101268",
+        "brand": "COLOMBO",
+        "title": "COLOMBO LF - 4100 / BK",
+        "price": "7140"
     },
     {
         "article": "A121817",
         "brand": "ELITARO",
         "title": "Elitaro E4010 RDS",
-        "price": "7279"
+        "price": "7435"
     },
     {
         "article": "A121819",
         "brand": "ELITARO",
         "title": "Elitaro E4010 VTS",
-        "price": "7279"
+        "price": "7435"
+    },
+    {
+        "article": "A121842",
+        "brand": "ELITARO",
+        "title": "Elitaro E4020 BK",
+        "price": "7435"
+    },
+    {
+        "article": "A121814",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 GR",
+        "price": "7435"
+    },
+    {
+        "article": "A121846",
+        "brand": "ELITARO",
+        "title": "Elitaro E4020 RDS",
+        "price": "7435"
+    },
+    {
+        "article": "A121813",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 BLS",
+        "price": "7435"
+    },
+    {
+        "article": "A121818",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 SB",
+        "price": "7435"
+    },
+    {
+        "article": "A121843",
+        "brand": "ELITARO",
+        "title": "Elitaro E4020 BLS",
+        "price": "7435"
+    },
+    {
+        "article": "A121815",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 N",
+        "price": "7435"
     },
     {
         "article": "A121812",
         "brand": "ELITARO",
         "title": "Elitaro E4010 BK",
-        "price": "7279"
-    },
-    {
-        "article": "A121816",
-        "brand": "ELITARO",
-        "title": "Elitaro E4010 PI",
-        "price": "7279"
+        "price": "7435"
     },
     {
         "article": "A121844",
         "brand": "ELITARO",
         "title": "Elitaro E4020 N",
-        "price": "7279"
+        "price": "7435"
+    },
+    {
+        "article": "A121848",
+        "brand": "ELITARO",
+        "title": "Elitaro E4020 WH",
+        "price": "7435"
+    },
+    {
+        "article": "A121845",
+        "brand": "ELITARO",
+        "title": "Elitaro E4020 SB",
+        "price": "7435"
+    },
+    {
+        "article": "A121816",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 PI",
+        "price": "7435"
+    },
+    {
+        "article": "A121820",
+        "brand": "ELITARO",
+        "title": "Elitaro E4010 WH",
+        "price": "7435"
     },
     {
         "article": "A176512",
         "brand": "Homage",
         "title": "Homage LF-3900",
-        "price": "7390"
-    },
-    {
-        "article": "A121822",
-        "brand": "ELITARO",
-        "title": "Elitaro E4030 BLS (Ocean)",
-        "price": "7462"
-    },
-    {
-        "article": "A121823",
-        "brand": "ELITARO",
-        "title": "Elitaro E4030 RDS (Fire)",
-        "price": "7462"
-    },
-    {
-        "article": "A121824",
-        "brand": "ELITARO",
-        "title": "Elitaro E4030 SB (Tiger)",
-        "price": "7462"
-    },
-    {
-        "article": "A121821",
-        "brand": "ELITARO",
-        "title": "Elitaro E4030 BKS (Tobacco)",
-        "price": "7462"
+        "price": "7580"
     },
     {
         "article": "A097748",
         "brand": "COLOMBO",
         "title": "COLOMBO LF - 4000 / SB",
-        "price": "7585"
-    },
-    {
-        "article": "A097746",
-        "brand": "COLOMBO",
-        "title": "COLOMBO LF - 4000 / BK",
         "price": "7585"
     },
     {
@@ -636,76 +606,40 @@
         "price": "7585"
     },
     {
+        "article": "A097746",
+        "brand": "COLOMBO",
+        "title": "COLOMBO LF - 4000 / BK",
+        "price": "7585"
+    },
+    {
         "article": "A189991",
         "brand": "Foix",
         "title": "Foix FFG-2039C-BK",
         "price": "7600"
     },
     {
-        "article": "A121850",
+        "article": "A121823",
         "brand": "ELITARO",
-        "title": "Elitaro E4120 BLS",
-        "price": "7618"
+        "title": "Elitaro E4030 RDS (Fire)",
+        "price": "7623"
     },
     {
-        "article": "A198464",
+        "article": "A121821",
         "brand": "ELITARO",
-        "title": "Elitaro E4110 WH Акустическая гитара",
-        "price": "7618"
+        "title": "Elitaro E4030 BKS (Tobacco)",
+        "price": "7623"
     },
     {
-        "article": "A121825",
+        "article": "A121822",
         "brand": "ELITARO",
-        "title": "Elitaro E4110 BK",
-        "price": "7618"
+        "title": "Elitaro E4030 BLS (Ocean)",
+        "price": "7623"
     },
     {
-        "article": "A121828",
+        "article": "A121824",
         "brand": "ELITARO",
-        "title": "Elitaro E4110 RDS",
-        "price": "7618"
-    },
-    {
-        "article": "A121852",
-        "brand": "ELITARO",
-        "title": "Elitaro E4120 RDS",
-        "price": "7618"
-    },
-    {
-        "article": "A121849",
-        "brand": "ELITARO",
-        "title": "Elitaro E4120 BK",
-        "price": "7618"
-    },
-    {
-        "article": "A144024",
-        "brand": "FABIO",
-        "title": "Fabio F4110 BK",
-        "price": "7618"
-    },
-    {
-        "article": "A121829",
-        "brand": "ELITARO",
-        "title": "Elitaro E4110 SB",
-        "price": "7618"
-    },
-    {
-        "article": "A121826",
-        "brand": "ELITARO",
-        "title": "Elitaro E4110 BLS",
-        "price": "7618"
-    },
-    {
-        "article": "A121851",
-        "brand": "ELITARO",
-        "title": "Elitaro E4120 N",
-        "price": "7618"
-    },
-    {
-        "article": "A121827",
-        "brand": "ELITARO",
-        "title": "Elitaro E4110 N",
-        "price": "7618"
+        "title": "Elitaro E4030 SB (Tiger)",
+        "price": "7623"
     },
     {
         "article": "A175800",
@@ -714,46 +648,64 @@
         "price": "7670"
     },
     {
-        "article": "A121830",
+        "article": "A121826",
         "brand": "ELITARO",
-        "title": "Elitaro E4040 Blue Fantasy",
-        "price": "7773"
+        "title": "Elitaro E4110 BLS",
+        "price": "7782"
     },
     {
-        "article": "A198463",
+        "article": "A121829",
         "brand": "ELITARO",
-        "title": "Elitaro E4040 RU Flag Акустическая гитара",
-        "price": "7773"
+        "title": "Elitaro E4110 SB",
+        "price": "7782"
     },
     {
-        "article": "A121833",
+        "article": "A121851",
         "brand": "ELITARO",
-        "title": "Elitaro L4040 UK Flag",
-        "price": "7773"
+        "title": "Elitaro E4120 N",
+        "price": "7782"
     },
     {
-        "article": "A121831",
+        "article": "A121849",
         "brand": "ELITARO",
-        "title": "Elitaro E4040 Lone",
-        "price": "7773"
+        "title": "Elitaro E4120 BK",
+        "price": "7782"
     },
     {
-        "article": "A121834",
+        "article": "A121827",
         "brand": "ELITARO",
-        "title": "Elitaro E4040 Wave",
-        "price": "7773"
+        "title": "Elitaro E4110 N",
+        "price": "7782"
     },
     {
-        "article": "A121832",
+        "article": "A121828",
         "brand": "ELITARO",
-        "title": "Elitaro L4040 Rock Concert",
-        "price": "7773"
+        "title": "Elitaro E4110 RDS",
+        "price": "7782"
     },
     {
-        "article": "A215157",
-        "brand": "Homage",
-        "title": "Homage LF-4100-N",
-        "price": "7810"
+        "article": "A121852",
+        "brand": "ELITARO",
+        "title": "Elitaro E4120 RDS",
+        "price": "7782"
+    },
+    {
+        "article": "A121825",
+        "brand": "ELITARO",
+        "title": "Elitaro E4110 BK",
+        "price": "7782"
+    },
+    {
+        "article": "A144024",
+        "brand": "FABIO",
+        "title": "Fabio F4110 BK",
+        "price": "7782"
+    },
+    {
+        "article": "A198464",
+        "brand": "ELITARO",
+        "title": "Elitaro E4110 WH Акустическая гитара",
+        "price": "7782"
     },
     {
         "article": "A177059",
@@ -774,6 +726,48 @@
         "price": "7888"
     },
     {
+        "article": "A121830",
+        "brand": "ELITARO",
+        "title": "Elitaro E4040 Blue Fantasy",
+        "price": "7940"
+    },
+    {
+        "article": "A121832",
+        "brand": "ELITARO",
+        "title": "Elitaro L4040 Rock Concert",
+        "price": "7940"
+    },
+    {
+        "article": "A121833",
+        "brand": "ELITARO",
+        "title": "Elitaro L4040 UK Flag",
+        "price": "7940"
+    },
+    {
+        "article": "A121831",
+        "brand": "ELITARO",
+        "title": "Elitaro E4040 Lone",
+        "price": "7940"
+    },
+    {
+        "article": "A121834",
+        "brand": "ELITARO",
+        "title": "Elitaro E4040 Wave",
+        "price": "7940"
+    },
+    {
+        "article": "A198463",
+        "brand": "ELITARO",
+        "title": "Elitaro E4040 RU Flag Акустическая гитара",
+        "price": "7940"
+    },
+    {
+        "article": "A215157",
+        "brand": "Homage",
+        "title": "Homage LF-4100-N",
+        "price": "8020"
+    },
+    {
         "article": "A103043",
         "brand": "PHIL PRO",
         "title": "PHIL PRO AS - 4104 / 3TS",
@@ -786,34 +780,28 @@
         "price": "8025"
     },
     {
-        "article": "A144110",
-        "brand": "FABIO",
-        "title": "Fabio FB-JF40BG BLS",
-        "price": "8162"
-    },
-    {
-        "article": "A121984",
-        "brand": "ELITARO",
-        "title": "Elitaro E4050 EQ BK",
-        "price": "8268"
-    },
-    {
-        "article": "A121985",
-        "brand": "ELITARO",
-        "title": "Elitaro E4050 EQ N",
-        "price": "8268"
-    },
-    {
         "article": "A130037",
         "brand": "Sevillia",
         "title": "Sevillia IWC-235 MTP",
         "price": "8304"
     },
     {
+        "article": "A144110",
+        "brand": "FABIO",
+        "title": "Fabio FB-JF40BG BLS",
+        "price": "8338"
+    },
+    {
         "article": "A097749",
         "brand": "COLOMBO",
         "title": "COLOMBO LF - 401 C / N",
         "price": "8345"
+    },
+    {
+        "article": "A112953",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D1 C BK",
+        "price": "8400"
     },
     {
         "article": "A120531",
@@ -846,27 +834,27 @@
         "price": "8400"
     },
     {
-        "article": "A175824",
-        "brand": "Homage",
-        "title": "Homage LF-4110-N",
-        "price": "8470"
+        "article": "A121984",
+        "brand": "ELITARO",
+        "title": "Elitaro E4050 EQ BK",
+        "price": "8446"
     },
     {
-        "article": "A175870",
-        "brand": "Homage",
-        "title": "Homage LF-4110-SB",
-        "price": "8470"
-    },
-    {
-        "article": "A199547",
-        "brand": "MARTIN ROMAS",
-        "title": "MARTIN ROMAS MR-4000 PK",
-        "price": "8490"
+        "article": "A121985",
+        "brand": "ELITARO",
+        "title": "Elitaro E4050 EQ N",
+        "price": "8446"
     },
     {
         "article": "A199555",
         "brand": "MARTIN ROMAS",
         "title": "MARTIN ROMAS MR-4000 LBL",
+        "price": "8490"
+    },
+    {
+        "article": "A218533",
+        "brand": "MARTIN ROMAS",
+        "title": "MARTIN ROMAS MR-4000 ORG",
         "price": "8490"
     },
     {
@@ -876,15 +864,15 @@
         "price": "8490"
     },
     {
-        "article": "A192487",
-        "brand": "MARTIN ROMAS",
-        "title": "MARTIN ROMAS MR-4000 TGR",
-        "price": "8490"
-    },
-    {
         "article": "A192489",
         "brand": "MARTIN ROMAS",
         "title": "MARTIN ROMAS MR-4000 TSB",
+        "price": "8490"
+    },
+    {
+        "article": "A192487",
+        "brand": "MARTIN ROMAS",
+        "title": "MARTIN ROMAS MR-4000 TGR",
         "price": "8490"
     },
     {
@@ -894,10 +882,10 @@
         "price": "8490"
     },
     {
-        "article": "A197677",
-        "brand": "Homage",
-        "title": "Homage LF-4111-R",
-        "price": "8590"
+        "article": "A199547",
+        "brand": "MARTIN ROMAS",
+        "title": "MARTIN ROMAS MR-4000 PK",
+        "price": "8490"
     },
     {
         "article": "A171229",
@@ -936,33 +924,27 @@
         "price": "8740"
     },
     {
-        "article": "A209914",
-        "brand": "Foix",
-        "title": "Foix FFG-2040C-BK",
-        "price": "8780"
-    },
-    {
-        "article": "A209912",
-        "brand": "Foix",
-        "title": "Foix FFG-2041C-BK",
-        "price": "8780"
-    },
-    {
         "article": "A209911",
         "brand": "Foix",
         "title": "Foix FFG-2041C-SB",
         "price": "8780"
     },
     {
-        "article": "A112977",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Folk Novel F1N",
-        "price": "8800"
+        "article": "A209914",
+        "brand": "Foix",
+        "title": "Foix FFG-2040C-BK",
+        "price": "8780"
     },
     {
         "article": "A112976",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Folk Novel F1BK",
+        "price": "8800"
+    },
+    {
+        "article": "A112977",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Folk Novel F1N",
         "price": "8800"
     },
     {
@@ -972,40 +954,22 @@
         "price": "8820"
     },
     {
-        "article": "A121857",
-        "brand": "FABIO",
-        "title": "Fabio FAW-702WH",
-        "price": "8862"
+        "article": "A197659",
+        "brand": "Homage",
+        "title": "Homage LF-4111-N",
+        "price": "8820"
     },
     {
-        "article": "A121859",
-        "brand": "FABIO",
-        "title": "Fabio FAW-702VS",
-        "price": "8862"
-    },
-    {
-        "article": "A121854",
-        "brand": "FABIO",
-        "title": "Fabio FAW-701",
-        "price": "8862"
-    },
-    {
-        "article": "A121856",
-        "brand": "FABIO",
-        "title": "Fabio FAW-702BL",
-        "price": "8862"
-    },
-    {
-        "article": "A121858",
-        "brand": "FABIO",
-        "title": "Fabio FAW-702WRS",
-        "price": "8862"
+        "article": "A197677",
+        "brand": "Homage",
+        "title": "Homage LF-4111-R",
+        "price": "8820"
     },
     {
         "article": "A177131",
         "brand": "Homage",
         "title": "Homage LF-4110T",
-        "price": "8900"
+        "price": "8870"
     },
     {
         "article": "A209913",
@@ -1014,28 +978,70 @@
         "price": "8920"
     },
     {
-        "article": "A130028",
+        "article": "A175870",
+        "brand": "Homage",
+        "title": "Homage LF-4110-SB",
+        "price": "8950"
+    },
+    {
+        "article": "A175824",
+        "brand": "Homage",
+        "title": "Homage LF-4110-N",
+        "price": "8950"
+    },
+    {
+        "article": "A121857",
+        "brand": "FABIO",
+        "title": "Fabio FAW-702WH",
+        "price": "9052"
+    },
+    {
+        "article": "A121859",
+        "brand": "FABIO",
+        "title": "Fabio FAW-702VS",
+        "price": "9052"
+    },
+    {
+        "article": "A121856",
+        "brand": "FABIO",
+        "title": "Fabio FAW-702BL",
+        "price": "9052"
+    },
+    {
+        "article": "A121858",
+        "brand": "FABIO",
+        "title": "Fabio FAW-702WRS",
+        "price": "9052"
+    },
+    {
+        "article": "A121854",
+        "brand": "FABIO",
+        "title": "Fabio FAW-701",
+        "price": "9052"
+    },
+    {
+        "article": "A130029",
         "brand": "Sevillia",
-        "title": "Sevillia IW-235 NA",
+        "title": "Sevillia IW-235M NS",
         "price": "9078"
     },
     {
         "article": "A121860",
         "brand": "FABIO",
         "title": "Fabio FAW-801",
-        "price": "9173"
+        "price": "9370"
     },
     {
         "article": "A121836",
         "brand": "FABIO",
         "title": "Fabio SA105 BLS",
-        "price": "9173"
+        "price": "9370"
     },
     {
         "article": "A121838",
         "brand": "FABIO",
         "title": "Fabio SA105 RDS",
-        "price": "9173"
+        "price": "9370"
     },
     {
         "article": "A128962",
@@ -1062,28 +1068,10 @@
         "price": "9620"
     },
     {
-        "article": "A113007",
-        "brand": "VESTON",
-        "title": "VESTON D-45 SP/BKS",
-        "price": "9620"
-    },
-    {
         "article": "A098374",
         "brand": "VESTON",
         "title": "VESTON D-40 SP/N",
         "price": "9620"
-    },
-    {
-        "article": "A179291",
-        "brand": "FABIO",
-        "title": "FABIO F4050E N EQ",
-        "price": "9682"
-    },
-    {
-        "article": "A197672",
-        "brand": "Homage",
-        "title": "Homage LF-4121-N",
-        "price": "9740"
     },
     {
         "article": "A174948",
@@ -1092,21 +1080,21 @@
         "price": "9740"
     },
     {
+        "article": "A130042",
+        "brand": "Sevillia",
+        "title": "Sevillia IWC-39M NA",
+        "price": "9769"
+    },
+    {
         "article": "A130041",
         "brand": "Sevillia",
         "title": "Sevillia IWC-39M BLS",
         "price": "9769"
     },
     {
-        "article": "A130035",
+        "article": "A130040",
         "brand": "Sevillia",
-        "title": "Sevillia IWC-235 MTBK",
-        "price": "9769"
-    },
-    {
-        "article": "A130036",
-        "brand": "Sevillia",
-        "title": "Sevillia IWC-235 MTBL",
+        "title": "Sevillia IWC-39M BK",
         "price": "9769"
     },
     {
@@ -1116,34 +1104,34 @@
         "price": "9769"
     },
     {
-        "article": "A130042",
+        "article": "A130035",
         "brand": "Sevillia",
-        "title": "Sevillia IWC-39M NA",
+        "title": "Sevillia IWC-235 MTBK",
         "price": "9769"
+    },
+    {
+        "article": "A130043",
+        "brand": "Sevillia",
+        "title": "Sevillia IWC-39M RDS",
+        "price": "9769"
+    },
+    {
+        "article": "A130036",
+        "brand": "Sevillia",
+        "title": "Sevillia IWC-235 MTBL",
+        "price": "9769"
+    },
+    {
+        "article": "A179291",
+        "brand": "FABIO",
+        "title": "FABIO F4050E N EQ",
+        "price": "9890"
     },
     {
         "article": "A144472",
         "brand": "CARAYA",
         "title": "Caraya F630-RDS",
         "price": "9920"
-    },
-    {
-        "article": "A198467",
-        "brand": "FABIO",
-        "title": "Fabio FW220 RDS (41",
-        "price": "9950"
-    },
-    {
-        "article": "A121840",
-        "brand": "FABIO",
-        "title": "Fabio FW220 BK (41)'",
-        "price": "9950"
-    },
-    {
-        "article": "A197661",
-        "brand": "Homage",
-        "title": "Homage LF-4121C-N",
-        "price": "10000"
     },
     {
         "article": "A130032",
@@ -1158,10 +1146,22 @@
         "price": "10037"
     },
     {
-        "article": "A121986",
+        "article": "A121840",
         "brand": "FABIO",
-        "title": "Fabio FAW-701VS CEQ",
-        "price": "10247"
+        "title": "Fabio FW220 BK (41)'",
+        "price": "10164"
+    },
+    {
+        "article": "A198467",
+        "brand": "FABIO",
+        "title": "Fabio FW220 RDS (41",
+        "price": "10164"
+    },
+    {
+        "article": "A197661",
+        "brand": "Homage",
+        "title": "Homage LF-4121C-N",
+        "price": "10270"
     },
     {
         "article": "A197972",
@@ -1170,16 +1170,22 @@
         "price": "10310"
     },
     {
+        "article": "A130031",
+        "brand": "Sevillia",
+        "title": "Sevillia IW-240M NS",
+        "price": "10439"
+    },
+    {
+        "article": "A121986",
+        "brand": "FABIO",
+        "title": "Fabio FAW-701VS CEQ",
+        "price": "10468"
+    },
+    {
         "article": "A197673",
         "brand": "Naranda",
         "title": "Naranda TG120CNA",
         "price": "10470"
-    },
-    {
-        "article": "A121988",
-        "brand": "FABIO",
-        "title": "Fabio FAW-801 CEQ",
-        "price": "10601"
     },
     {
         "article": "A152058",
@@ -1188,9 +1194,9 @@
         "price": "10712"
     },
     {
-        "article": "A097768",
+        "article": "A100438",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 91 C / N",
+        "title": "MARTINEZ W - 91 C / SB",
         "price": "10750"
     },
     {
@@ -1200,34 +1206,22 @@
         "price": "10750"
     },
     {
-        "article": "A100438",
+        "article": "A097768",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 91 C / SB",
+        "title": "MARTINEZ W - 91 C / N",
         "price": "10750"
     },
     {
-        "article": "A175475",
-        "brand": "Homage",
-        "title": "Homage LF-4123-N",
-        "price": "10860"
+        "article": "A121988",
+        "brand": "FABIO",
+        "title": "Fabio FAW-801 CEQ",
+        "price": "10829"
     },
     {
-        "article": "A198476",
-        "brand": "FABIO",
-        "title": "Fabio FXL-401 MN Акустическая гитара",
-        "price": "10883"
-    },
-    {
-        "article": "A198474",
-        "brand": "FABIO",
-        "title": "Fabio FXL-401 SN Акустическая гитара",
-        "price": "10883"
-    },
-    {
-        "article": "A198475",
-        "brand": "FABIO",
-        "title": "Fabio FXL-401 SBK Акустическая гитара",
-        "price": "10883"
+        "article": "A161023",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D3 C BK Gloss",
+        "price": "11000"
     },
     {
         "article": "A161021",
@@ -1236,15 +1230,15 @@
         "price": "11000"
     },
     {
-        "article": "A161013",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D3 C NAT Gloss",
-        "price": "11000"
-    },
-    {
         "article": "A161011",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D3 SB Gloss",
+        "price": "11000"
+    },
+    {
+        "article": "A161013",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D3 C NAT Gloss",
         "price": "11000"
     },
     {
@@ -1260,12 +1254,6 @@
         "price": "11000"
     },
     {
-        "article": "A161023",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D3 C BK Gloss",
-        "price": "11000"
-    },
-    {
         "article": "A152067",
         "brand": "STARSUN",
         "title": "STARSUN DG220c-p Open-Pore",
@@ -1276,6 +1264,30 @@
         "brand": "STARSUN",
         "title": "STARSUN DG220c-p Black",
         "price": "11018"
+    },
+    {
+        "article": "A198475",
+        "brand": "FABIO",
+        "title": "Fabio FXL-401 SBK Акустическая гитара",
+        "price": "11117"
+    },
+    {
+        "article": "A198474",
+        "brand": "FABIO",
+        "title": "Fabio FXL-401 SN Акустическая гитара",
+        "price": "11117"
+    },
+    {
+        "article": "A198476",
+        "brand": "FABIO",
+        "title": "Fabio FXL-401 MN Акустическая гитара",
+        "price": "11117"
+    },
+    {
+        "article": "A175475",
+        "brand": "Homage",
+        "title": "Homage LF-4123-N",
+        "price": "11150"
     },
     {
         "article": "A146762",
@@ -1296,18 +1308,6 @@
         "price": "11382"
     },
     {
-        "article": "A100437",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 11 / N",
-        "price": "11385"
-    },
-    {
-        "article": "A100436",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 11 / BK",
-        "price": "11385"
-    },
-    {
         "article": "A097762",
         "brand": "MARTINEZ",
         "title": "MARTINEZ W - 11 / SB",
@@ -1320,15 +1320,27 @@
         "price": "11385"
     },
     {
+        "article": "A100437",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ W - 11 / N",
+        "price": "11385"
+    },
+    {
+        "article": "A100436",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ W - 11 / BK",
+        "price": "11385"
+    },
+    {
         "article": "A152063",
         "brand": "STARSUN",
         "title": "STARSUN DG220p Open-Pore",
         "price": "11432"
     },
     {
-        "article": "A161008",
+        "article": "A161002",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D5 BK Satin",
+        "title": "ROCKDALE Aurora D5 C NAT Satin",
         "price": "11500"
     },
     {
@@ -1338,21 +1350,15 @@
         "price": "11500"
     },
     {
-        "article": "A161002",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D5 C NAT Satin",
-        "price": "11500"
-    },
-    {
         "article": "A161028",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D5 NAT Satin",
         "price": "11500"
     },
     {
-        "article": "A160998",
+        "article": "A161008",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D5 SB Satin",
+        "title": "ROCKDALE Aurora D5 BK Satin",
         "price": "11500"
     },
     {
@@ -1362,10 +1368,34 @@
         "price": "11500"
     },
     {
+        "article": "A160998",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D5 SB Satin",
+        "price": "11500"
+    },
+    {
         "article": "A158217",
         "brand": "NG",
         "title": "NG GT300 BK",
         "price": "11590"
+    },
+    {
+        "article": "A158200",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D3 NAT Satin",
+        "price": "11700"
+    },
+    {
+        "article": "A158194",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D3 BK Satin",
+        "price": "11700"
+    },
+    {
+        "article": "A158196",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D3 SB Satin",
+        "price": "11700"
     },
     {
         "article": "A158185",
@@ -1380,33 +1410,9 @@
         "price": "11700"
     },
     {
-        "article": "A158196",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D3 SB Satin",
-        "price": "11700"
-    },
-    {
-        "article": "A158200",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D3 NAT Satin",
-        "price": "11700"
-    },
-    {
-        "article": "A187320",
-        "brand": "STAGG",
-        "title": "STAGG SA25 MAH TRAVEL",
-        "price": "11790"
-    },
-    {
-        "article": "A117147",
+        "article": "A117151",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW - 701",
-        "price": "11895"
-    },
-    {
-        "article": "A117150",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW - 702 / TBK",
+        "title": "MARTINEZ FAW - 702 / TP",
         "price": "11895"
     },
     {
@@ -1422,9 +1428,9 @@
         "price": "11895"
     },
     {
-        "article": "A117148",
+        "article": "A117150",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW - 702 / B",
+        "title": "MARTINEZ FAW - 702 / TBK",
         "price": "11895"
     },
     {
@@ -1440,16 +1446,16 @@
         "price": "11895"
     },
     {
-        "article": "A117151",
+        "article": "A117148",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW - 702 / TP",
+        "title": "MARTINEZ FAW - 702 / B",
         "price": "11895"
     },
     {
-        "article": "A119097",
-        "brand": "FLIGHT",
-        "title": "FLIGHT D-175 BK",
-        "price": "12130"
+        "article": "A117147",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ FAW - 701",
+        "price": "11895"
     },
     {
         "article": "A119083",
@@ -1458,15 +1464,21 @@
         "price": "12130"
     },
     {
-        "article": "A152061",
-        "brand": "STARSUN",
-        "title": "STARSUN DG220p Black",
-        "price": "12147"
+        "article": "A119097",
+        "brand": "FLIGHT",
+        "title": "FLIGHT D-175 BK",
+        "price": "12130"
     },
     {
         "article": "A152062",
         "brand": "STARSUN",
         "title": "STARSUN DG220p Sunburst",
+        "price": "12147"
+    },
+    {
+        "article": "A152061",
+        "brand": "STARSUN",
+        "title": "STARSUN DG220p Black",
         "price": "12147"
     },
     {
@@ -1482,33 +1494,15 @@
         "price": "12150"
     },
     {
-        "article": "A121869",
-        "brand": "FABIO",
-        "title": "Fabio FB12 4120 NL",
-        "price": "12297"
-    },
-    {
-        "article": "A121867",
-        "brand": "FABIO",
-        "title": "Fabio FB12 4120 BK",
-        "price": "12297"
-    },
-    {
-        "article": "A158198",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D5 C BK Gloss",
-        "price": "12300"
-    },
-    {
-        "article": "A158195",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D5 C NAT Gloss",
-        "price": "12300"
-    },
-    {
         "article": "A158197",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D5 NAT Gloss",
+        "price": "12300"
+    },
+    {
+        "article": "A158192",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D5 SB Gloss",
         "price": "12300"
     },
     {
@@ -1518,15 +1512,27 @@
         "price": "12300"
     },
     {
-        "article": "A197671",
-        "brand": "Homage",
-        "title": "Homage LF-4121CEQ",
-        "price": "12300"
-    },
-    {
         "article": "A158199",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D5 BK Gloss",
+        "price": "12300"
+    },
+    {
+        "article": "A158195",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D5 C NAT Gloss",
+        "price": "12300"
+    },
+    {
+        "article": "A158198",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D5 C BK Gloss",
+        "price": "12300"
+    },
+    {
+        "article": "A197671",
+        "brand": "Homage",
+        "title": "Homage LF-4121CEQ",
         "price": "12300"
     },
     {
@@ -1540,6 +1546,12 @@
         "brand": "FLIGHT",
         "title": "FLIGHT D-175 AC",
         "price": "12490"
+    },
+    {
+        "article": "A121869",
+        "brand": "FABIO",
+        "title": "Fabio FB12 4120 NL",
+        "price": "12561"
     },
     {
         "article": "A093872",
@@ -1560,16 +1572,46 @@
         "price": "12790"
     },
     {
+        "article": "A158223",
+        "brand": "NG",
+        "title": "NG DAWN N1 NA",
+        "price": "12790"
+    },
+    {
         "article": "A158230",
         "brand": "NG",
         "title": "NG DAWN N1 BK",
         "price": "12790"
     },
     {
-        "article": "A158223",
-        "brand": "NG",
-        "title": "NG DAWN N1 NA",
-        "price": "12790"
+        "article": "A161048",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 C NAT Satin",
+        "price": "12800"
+    },
+    {
+        "article": "A161006",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 BK Satin",
+        "price": "12800"
+    },
+    {
+        "article": "A161043",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 C ALL-MAH Satin",
+        "price": "12800"
+    },
+    {
+        "article": "A160999",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 NAT Satin",
+        "price": "12800"
+    },
+    {
+        "article": "A161014",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 C BK Satin",
+        "price": "12800"
     },
     {
         "article": "A161037",
@@ -1584,21 +1626,15 @@
         "price": "12800"
     },
     {
-        "article": "A161038",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 SB Gloss",
-        "price": "12800"
-    },
-    {
         "article": "A161027",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D6 SB Satin",
         "price": "12800"
     },
     {
-        "article": "A161047",
+        "article": "A161038",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 С NAT Gloss",
+        "title": "ROCKDALE Aurora D6 SB Gloss",
         "price": "12800"
     },
     {
@@ -1608,21 +1644,9 @@
         "price": "12800"
     },
     {
-        "article": "A161048",
+        "article": "A161053",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 C NAT Satin",
-        "price": "12800"
-    },
-    {
-        "article": "A161043",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 C ALL-MAH Satin",
-        "price": "12800"
-    },
-    {
-        "article": "A161006",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 BK Satin",
+        "title": "ROCKDALE Aurora D6 ALL-MAH Gloss",
         "price": "12800"
     },
     {
@@ -1632,9 +1656,9 @@
         "price": "12800"
     },
     {
-        "article": "A160999",
+        "article": "A161047",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 NAT Satin",
+        "title": "ROCKDALE Aurora D6 С NAT Gloss",
         "price": "12800"
     },
     {
@@ -1644,10 +1668,10 @@
         "price": "12800"
     },
     {
-        "article": "A161053",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 ALL-MAH Gloss",
-        "price": "12800"
+        "article": "A187177",
+        "brand": "STAGG",
+        "title": "STAGG SA25 A SPRUCE",
+        "price": "12990"
     },
     {
         "article": "A196229",
@@ -1659,12 +1683,6 @@
         "article": "A196233",
         "brand": "OMNI",
         "title": "OMNI D-130",
-        "price": "12990"
-    },
-    {
-        "article": "A187177",
-        "brand": "STAGG",
-        "title": "STAGG SA25 A SPRUCE",
         "price": "12990"
     },
     {
@@ -1698,18 +1716,6 @@
         "price": "13040"
     },
     {
-        "article": "A179294",
-        "brand": "FABIO",
-        "title": "Fabio W164E BK",
-        "price": "13145"
-    },
-    {
-        "article": "A179293",
-        "brand": "FABIO",
-        "title": "Fabio W164E N",
-        "price": "13145"
-    },
-    {
         "article": "A093871",
         "brand": "FLIGHT",
         "title": "FLIGHT D-165C SAP",
@@ -1722,18 +1728,6 @@
         "price": "13160"
     },
     {
-        "article": "A121866",
-        "brand": "FABIO",
-        "title": "Fabio FB12 4110 BK",
-        "price": "13216"
-    },
-    {
-        "article": "A121868",
-        "brand": "FABIO",
-        "title": "Fabio FB12 4110 NL",
-        "price": "13216"
-    },
-    {
         "article": "A117155",
         "brand": "MARTINEZ",
         "title": "MARTINEZ FAW - 801",
@@ -1744,6 +1738,18 @@
         "brand": "JET",
         "title": "JET JD-255 OP",
         "price": "13320"
+    },
+    {
+        "article": "A116186",
+        "brand": "CORT",
+        "title": "Cort AF510-OP Standard Series",
+        "price": "13330"
+    },
+    {
+        "article": "A116221",
+        "brand": "CORT",
+        "title": "Cort AF510M-OP Standard Series",
+        "price": "13330"
     },
     {
         "article": "A116184",
@@ -1770,9 +1776,9 @@
         "price": "13410"
     },
     {
-        "article": "A210181",
-        "brand": "Homage",
-        "title": "Homage LA-300",
+        "article": "A093869",
+        "brand": "FLIGHT",
+        "title": "FLIGHT D-435 NA",
         "price": "13410"
     },
     {
@@ -1782,10 +1788,22 @@
         "price": "13410"
     },
     {
-        "article": "A093869",
-        "brand": "FLIGHT",
-        "title": "FLIGHT D-435 NA",
-        "price": "13410"
+        "article": "A179293",
+        "brand": "FABIO",
+        "title": "Fabio W164E N",
+        "price": "13428"
+    },
+    {
+        "article": "A179297",
+        "brand": "FABIO",
+        "title": "Fabio W164E SB",
+        "price": "13428"
+    },
+    {
+        "article": "A179294",
+        "brand": "FABIO",
+        "title": "Fabio W164E BK",
+        "price": "13428"
     },
     {
         "article": "A158236",
@@ -1800,6 +1818,18 @@
         "price": "13430"
     },
     {
+        "article": "A121868",
+        "brand": "FABIO",
+        "title": "Fabio FB12 4110 NL",
+        "price": "13500"
+    },
+    {
+        "article": "A121866",
+        "brand": "FABIO",
+        "title": "Fabio FB12 4110 BK",
+        "price": "13500"
+    },
+    {
         "article": "A176355",
         "brand": "CARAYA",
         "title": "CARAYA F631CEQ-BS",
@@ -1810,6 +1840,12 @@
         "brand": "NG",
         "title": "NG GT300 NA",
         "price": "13670"
+    },
+    {
+        "article": "A210181",
+        "brand": "Homage",
+        "title": "Homage LA-300",
+        "price": "13780"
     },
     {
         "article": "A171003",
@@ -1848,28 +1884,16 @@
         "price": "13900"
     },
     {
-        "article": "A134051",
-        "brand": "TANGLEWOOD",
-        "title": "TANGLEWOOD TWCR D",
-        "price": "13910"
-    },
-    {
         "article": "A134049",
         "brand": "TANGLEWOOD",
         "title": "TANGLEWOOD TWCR O",
         "price": "13910"
     },
     {
-        "article": "A181738",
-        "brand": "Klever",
-        "title": "Klever KA-215",
-        "price": "13940"
-    },
-    {
-        "article": "A181719",
-        "brand": "Klever",
-        "title": "Klever KD-742",
-        "price": "13940"
+        "article": "A134051",
+        "brand": "TANGLEWOOD",
+        "title": "TANGLEWOOD TWCR D",
+        "price": "13910"
     },
     {
         "article": "A181734",
@@ -1881,6 +1905,18 @@
         "article": "A181741",
         "brand": "Klever",
         "title": "Klever KD-550",
+        "price": "13940"
+    },
+    {
+        "article": "A181719",
+        "brand": "Klever",
+        "title": "Klever KD-742",
+        "price": "13940"
+    },
+    {
+        "article": "A181738",
+        "brand": "Klever",
+        "title": "Klever KA-215",
         "price": "13940"
     },
     {
@@ -1938,39 +1974,21 @@
         "price": "14150"
     },
     {
+        "article": "A116187",
+        "brand": "CORT",
+        "title": "Cort AF510-BKS Standard Series",
+        "price": "14150"
+    },
+    {
         "article": "A158227",
         "brand": "NG",
         "title": "NG START SB",
         "price": "14300"
     },
     {
-        "article": "A072955",
-        "brand": "FLIGHT",
-        "title": "FLIGHT F-230C NA",
-        "price": "14360"
-    },
-    {
-        "article": "A072956",
-        "brand": "FLIGHT",
-        "title": "FLIGHT F-230C WR",
-        "price": "14360"
-    },
-    {
-        "article": "A098369",
-        "brand": "FLIGHT",
-        "title": "FLIGHT D-130 BK",
-        "price": "14360"
-    },
-    {
         "article": "A072954",
         "brand": "FLIGHT",
         "title": "FLIGHT F-230C BK",
-        "price": "14360"
-    },
-    {
-        "article": "A098218",
-        "brand": "FLIGHT",
-        "title": "FLIGHT D-130 NA",
         "price": "14360"
     },
     {
@@ -1980,21 +1998,39 @@
         "price": "14360"
     },
     {
+        "article": "A098218",
+        "brand": "FLIGHT",
+        "title": "FLIGHT D-130 NA",
+        "price": "14360"
+    },
+    {
+        "article": "A098369",
+        "brand": "FLIGHT",
+        "title": "FLIGHT D-130 BK",
+        "price": "14360"
+    },
+    {
+        "article": "A072956",
+        "brand": "FLIGHT",
+        "title": "FLIGHT F-230C WR",
+        "price": "14360"
+    },
+    {
         "article": "A160997",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D7 C NAT Gloss",
         "price": "14700"
     },
     {
-        "article": "A161031",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D7 NAT Satin",
-        "price": "14700"
-    },
-    {
         "article": "A161051",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D7 C NAT Satin",
+        "price": "14700"
+    },
+    {
+        "article": "A161031",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D7 NAT Satin",
         "price": "14700"
     },
     {
@@ -2007,6 +2043,12 @@
         "article": "A181704",
         "brand": "Klever",
         "title": "Klever KA-300",
+        "price": "14721"
+    },
+    {
+        "article": "A181758",
+        "brand": "Klever",
+        "title": "Klever KD-300",
         "price": "14721"
     },
     {
@@ -2028,6 +2070,12 @@
         "price": "15040"
     },
     {
+        "article": "A155232",
+        "brand": "AIERSI",
+        "title": "AIERSI SG02SM-40",
+        "price": "15040"
+    },
+    {
         "article": "A097763",
         "brand": "MARTINEZ",
         "title": "MARTINEZ W - 12 A / N",
@@ -2038,12 +2086,6 @@
         "brand": "Naranda",
         "title": "Naranda DG220CEN",
         "price": "15110"
-    },
-    {
-        "article": "A138938",
-        "brand": "GregBennett",
-        "title": "GREG BENNETT GOM60/N",
-        "price": "15175"
     },
     {
         "article": "A157445",
@@ -2064,6 +2106,12 @@
         "price": "15485"
     },
     {
+        "article": "A190664",
+        "brand": "Prodipe",
+        "title": "Prodipe JMFLHPRIMERA3/4",
+        "price": "15600"
+    },
+    {
         "article": "A053538",
         "brand": "FLIGHT",
         "title": "FLIGHT D-200 BK",
@@ -2076,15 +2124,15 @@
         "price": "15642"
     },
     {
-        "article": "A171006",
-        "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D6 C NAT E Gloss",
-        "price": "15700"
-    },
-    {
         "article": "A171011",
         "brand": "ROCKDALE",
         "title": "ROCKDALE Aurora D6 C ALL-MAH E Gloss",
+        "price": "15700"
+    },
+    {
+        "article": "A171006",
+        "brand": "ROCKDALE",
+        "title": "ROCKDALE Aurora D6 C NAT E Gloss",
         "price": "15700"
     },
     {
@@ -2109,12 +2157,6 @@
         "article": "A208268",
         "brand": "Emotive",
         "title": "Emotive Rightwood G2 NA",
-        "price": "15990"
-    },
-    {
-        "article": "A208264",
-        "brand": "Emotive",
-        "title": "Emotive Rightwood D2 NA",
         "price": "15990"
     },
     {
@@ -2172,33 +2214,27 @@
         "price": "16290"
     },
     {
-        "article": "A217769",
-        "brand": "FLIGHT",
-        "title": "FLIGHT C-120 BK PACK",
-        "price": "16330"
-    },
-    {
         "article": "A217764",
         "brand": "FLIGHT",
         "title": "FLIGHT C-120 NAT PACK",
         "price": "16330"
     },
     {
-        "article": "A117159",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW - 801 CEQ",
-        "price": "16370"
-    },
-    {
-        "article": "A098371",
+        "article": "A217769",
         "brand": "FLIGHT",
-        "title": "FLIGHT AD-200 3TS",
-        "price": "16380"
+        "title": "FLIGHT C-120 BK PACK",
+        "price": "16330"
     },
     {
         "article": "A053266",
         "brand": "FLIGHT",
         "title": "FLIGHT AD-200 NA",
+        "price": "16380"
+    },
+    {
+        "article": "A098371",
+        "brand": "FLIGHT",
+        "title": "FLIGHT AD-200 3TS",
         "price": "16380"
     },
     {
@@ -2232,15 +2268,15 @@
         "price": "16540"
     },
     {
-        "article": "A158210",
-        "brand": "NG",
-        "title": "NG DAWN-E N1 BK",
-        "price": "16550"
-    },
-    {
         "article": "A158232",
         "brand": "NG",
         "title": "NG DAWN-E S1 BK",
+        "price": "16550"
+    },
+    {
+        "article": "A158210",
+        "brand": "NG",
+        "title": "NG DAWN-E N1 BK",
         "price": "16550"
     },
     {
@@ -2274,15 +2310,15 @@
         "price": "16860"
     },
     {
-        "article": "A183421",
-        "brand": "Parkwood",
-        "title": "Parkwood PF51M-WBAG-OP",
-        "price": "16860"
-    },
-    {
         "article": "A182454",
         "brand": "Parkwood",
         "title": "Parkwood W81-WBAG-OP",
+        "price": "16860"
+    },
+    {
+        "article": "A183421",
+        "brand": "Parkwood",
+        "title": "Parkwood PF51M-WBAG-OP",
         "price": "16860"
     },
     {
@@ -2304,10 +2340,10 @@
         "price": "16970"
     },
     {
-        "article": "A119090",
-        "brand": "JET",
-        "title": "JET JGA-255 OP",
-        "price": "17000"
+        "article": "A158225",
+        "brand": "NG",
+        "title": "NG GT600-E BK",
+        "price": "17090"
     },
     {
         "article": "A158234",
@@ -2316,21 +2352,15 @@
         "price": "17090"
     },
     {
-        "article": "A158225",
-        "brand": "NG",
-        "title": "NG GT600-E BK",
-        "price": "17090"
+        "article": "A053267",
+        "brand": "FLIGHT",
+        "title": "FLIGHT AD-200 WH",
+        "price": "17150"
     },
     {
         "article": "A119038",
         "brand": "JET",
         "title": "JET JD-255 SSB",
-        "price": "17150"
-    },
-    {
-        "article": "A053267",
-        "brand": "FLIGHT",
-        "title": "FLIGHT AD-200 WH",
         "price": "17150"
     },
     {
@@ -2340,27 +2370,27 @@
         "price": "17150"
     },
     {
-        "article": "A119039",
-        "brand": "JET",
-        "title": "JET JF-155 BKS",
-        "price": "17150"
-    },
-    {
         "article": "A098370",
         "brand": "FLIGHT",
         "title": "FLIGHT AG-210 BK",
         "price": "17150"
     },
     {
-        "article": "A128952",
-        "brand": "CASCHA",
-        "title": "CASCHA Stage Series HH 2080",
-        "price": "17200"
+        "article": "A119039",
+        "brand": "JET",
+        "title": "JET JF-155 BKS",
+        "price": "17150"
     },
     {
         "article": "A074496",
         "brand": "GregBennett",
         "title": "GregBennett GD50/OPN",
+        "price": "17200"
+    },
+    {
+        "article": "A128952",
+        "brand": "CASCHA",
+        "title": "CASCHA Stage Series HH 2080",
         "price": "17200"
     },
     {
@@ -2376,15 +2406,15 @@
         "price": "17458"
     },
     {
-        "article": "A097758",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ SW - 024 / HC / SB",
-        "price": "17470"
-    },
-    {
         "article": "A097757",
         "brand": "MARTINEZ",
         "title": "MARTINEZ SW - 024 / HC / BK",
+        "price": "17470"
+    },
+    {
+        "article": "A097758",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ SW - 024 / HC / SB",
         "price": "17470"
     },
     {
@@ -2430,15 +2460,15 @@
         "price": "17720"
     },
     {
-        "article": "A182565",
-        "brand": "Parkwood",
-        "title": "Parkwood W81-WBAG-BKS",
-        "price": "17770"
-    },
-    {
         "article": "A182639",
         "brand": "Parkwood",
         "title": "Parkwood PF51-WBAG-BKS",
+        "price": "17770"
+    },
+    {
+        "article": "A182565",
+        "brand": "Parkwood",
+        "title": "Parkwood W81-WBAG-BKS",
         "price": "17770"
     },
     {
@@ -2446,12 +2476,6 @@
         "brand": "TANGLEWOOD",
         "title": "TANGLEWOOD TWCR DCE",
         "price": "17910"
-    },
-    {
-        "article": "A208266",
-        "brand": "Emotive",
-        "title": "Emotive Rightwood D2 eNA",
-        "price": "17990"
     },
     {
         "article": "A208267",
@@ -2463,6 +2487,12 @@
         "article": "A208269",
         "brand": "Emotive",
         "title": "Emotive Rightwood G2 eNA",
+        "price": "17990"
+    },
+    {
+        "article": "A208266",
+        "brand": "Emotive",
+        "title": "Emotive Rightwood D2 eNA",
         "price": "17990"
     },
     {
@@ -2496,15 +2526,15 @@
         "price": "18500"
     },
     {
+        "article": "A182407",
+        "brand": "CORT",
+        "title": "CORT Earth60M-OPTB Earth Series",
+        "price": "18500"
+    },
+    {
         "article": "A119092",
         "brand": "FLIGHT",
         "title": "FLIGHT AD-555 NA",
-        "price": "18530"
-    },
-    {
-        "article": "A119113",
-        "brand": "FLIGHT",
-        "title": "FLIGHT AD-455C E NA",
         "price": "18530"
     },
     {
@@ -2520,22 +2550,16 @@
         "price": "18737"
     },
     {
-        "article": "A122869",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 1212 / N",
-        "price": "18765"
-    },
-    {
         "article": "A122868",
         "brand": "MARTINEZ",
         "title": "MARTINEZ W - 1212 / BK",
         "price": "18765"
     },
     {
-        "article": "A116193",
-        "brand": "CORT",
-        "title": "Cort AF510E-OP Standard Series",
-        "price": "18780"
+        "article": "A122869",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ W - 1212 / N",
+        "price": "18765"
     },
     {
         "article": "A116195",
@@ -2550,18 +2574,6 @@
         "price": "18800"
     },
     {
-        "article": "A190079",
-        "brand": "Prodipe",
-        "title": "Prodipe JMFSA25",
-        "price": "18800"
-    },
-    {
-        "article": "A097759",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ SW - 12 / BKM",
-        "price": "18875"
-    },
-    {
         "article": "A097760",
         "brand": "MARTINEZ",
         "title": "MARTINEZ SW - 12 / NM",
@@ -2572,6 +2584,12 @@
         "brand": "ARIA",
         "title": "ARIA ARIA-101DP MUBR",
         "price": "18890"
+    },
+    {
+        "article": "A138938",
+        "brand": "GregBennett",
+        "title": "GREG BENNETT GOM60/N",
+        "price": "18968"
     },
     {
         "article": "A188848",
@@ -2604,15 +2622,15 @@
         "price": "19090"
     },
     {
-        "article": "A146970",
-        "brand": "KEPMA",
-        "title": "KEPMA EDC Natural Matt",
-        "price": "19090"
-    },
-    {
         "article": "A146972",
         "brand": "KEPMA",
         "title": "KEPMA EDC Black Matt",
+        "price": "19090"
+    },
+    {
+        "article": "A146970",
+        "brand": "KEPMA",
+        "title": "KEPMA EDC Natural Matt",
         "price": "19090"
     },
     {
@@ -2652,10 +2670,10 @@
         "price": "19590"
     },
     {
-        "article": "A178344",
-        "brand": "PRIMA",
-        "title": "PRIMA MAG205Q",
-        "price": "19628"
+        "article": "A091736",
+        "brand": "CORT",
+        "title": "Cort AF510E-BKS Standard Series",
+        "price": "19590"
     },
     {
         "article": "A146959",
@@ -2676,15 +2694,15 @@
         "price": "19790"
     },
     {
-        "article": "A146961",
-        "brand": "KEPMA",
-        "title": "KEPMA A1C Black",
-        "price": "19790"
-    },
-    {
         "article": "A146964",
         "brand": "KEPMA",
         "title": "KEPMA D1C Black",
+        "price": "19790"
+    },
+    {
+        "article": "A146961",
+        "brand": "KEPMA",
+        "title": "KEPMA A1C Black",
         "price": "19790"
     },
     {
@@ -2700,16 +2718,10 @@
         "price": "19819"
     },
     {
-        "article": "A100442",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 164 P / SB",
-        "price": "19945"
-    },
-    {
-        "article": "A100441",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ W - 164 P / N",
-        "price": "19945"
+        "article": "A178223",
+        "brand": "PRIMA",
+        "title": "PRIMA MAG212C",
+        "price": "19922"
     },
     {
         "article": "A127824",
@@ -2724,16 +2736,40 @@
         "price": "19945"
     },
     {
+        "article": "A100442",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ W - 164 P / SB",
+        "price": "19945"
+    },
+    {
+        "article": "A100441",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ W - 164 P / N",
+        "price": "19945"
+    },
+    {
         "article": "A098608",
         "brand": "FLIGHT",
         "title": "FLIGHT D-207 HB",
         "price": "19970"
     },
     {
+        "article": "A098373",
+        "brand": "CRAFTER",
+        "title": "CRAFTER HD-100/OP.N",
+        "price": "20100"
+    },
+    {
         "article": "A098220",
         "brand": "CRAFTER",
         "title": "CRAFTER HT-100/OP.N",
         "price": "20100"
+    },
+    {
+        "article": "A178683",
+        "brand": "PRIMA",
+        "title": "PRIMA MAG205CQ",
+        "price": "20118"
     },
     {
         "article": "A183132",
@@ -2748,12 +2784,6 @@
         "price": "20246"
     },
     {
-        "article": "A053753",
-        "brand": "GregBennett",
-        "title": "GregBennett D1/PW",
-        "price": "20246"
-    },
-    {
         "article": "A074543",
         "brand": "GregBennett",
         "title": "GregBennett D1/N",
@@ -2763,6 +2793,12 @@
         "article": "A074694",
         "brand": "GregBennett",
         "title": "GregBennett D1/BK",
+        "price": "20246"
+    },
+    {
+        "article": "A053753",
+        "brand": "GregBennett",
+        "title": "GregBennett D1/PW",
         "price": "20246"
     },
     {
@@ -2814,9 +2850,9 @@
         "price": "20600"
     },
     {
-        "article": "A161032",
+        "article": "A161022",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D7 Koa ASB",
+        "title": "ROCKDALE Aurora D7 C Koa NAT",
         "price": "20600"
     },
     {
@@ -2826,9 +2862,9 @@
         "price": "20600"
     },
     {
-        "article": "A161022",
+        "article": "A161032",
         "brand": "ROCKDALE",
-        "title": "ROCKDALE Aurora D7 C Koa NAT",
+        "title": "ROCKDALE Aurora D7 Koa ASB",
         "price": "20600"
     },
     {
@@ -2844,12 +2880,6 @@
         "price": "20990"
     },
     {
-        "article": "A146967",
-        "brand": "KEPMA",
-        "title": "KEPMA EAC Black Matt",
-        "price": "20990"
-    },
-    {
         "article": "A146974",
         "brand": "KEPMA",
         "title": "KEPMA EDC All-Mahogany Matt",
@@ -2859,6 +2889,12 @@
         "article": "A146956",
         "brand": "KEPMA",
         "title": "KEPMA ES36 Natural Matt",
+        "price": "20990"
+    },
+    {
+        "article": "A146967",
+        "brand": "KEPMA",
+        "title": "KEPMA EAC Black Matt",
         "price": "20990"
     },
     {
@@ -2874,6 +2910,12 @@
         "price": "21000"
     },
     {
+        "article": "A146982",
+        "brand": "KEPMA",
+        "title": "KEPMA EDC Black",
+        "price": "21090"
+    },
+    {
         "article": "A146981",
         "brand": "KEPMA",
         "title": "KEPMA EDC Sunburst",
@@ -2883,12 +2925,6 @@
         "article": "A146977",
         "brand": "KEPMA",
         "title": "KEPMA EAC Black",
-        "price": "21090"
-    },
-    {
-        "article": "A146982",
-        "brand": "KEPMA",
-        "title": "KEPMA EDC Black",
         "price": "21090"
     },
     {
@@ -2916,15 +2952,15 @@
         "price": "21230"
     },
     {
-        "article": "A053755",
-        "brand": "GregBennett",
-        "title": "GregBennett GJ100S/N",
-        "price": "21236"
-    },
-    {
         "article": "A138936",
         "brand": "GregBennett",
         "title": "GREG BENNETT GD100SC/N",
+        "price": "21236"
+    },
+    {
+        "article": "A053755",
+        "brand": "GregBennett",
+        "title": "GregBennett GJ100S/N",
         "price": "21236"
     },
     {
@@ -2934,15 +2970,15 @@
         "price": "21236"
     },
     {
-        "article": "A217483",
-        "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW-705-7",
-        "price": "21315"
-    },
-    {
         "article": "A217484",
         "brand": "MARTINEZ",
         "title": "MARTINEZ FAW-705-7/YS",
+        "price": "21315"
+    },
+    {
+        "article": "A217483",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ FAW-705-7",
         "price": "21315"
     },
     {
@@ -2976,16 +3012,22 @@
         "price": "21860"
     },
     {
+        "article": "A074499",
+        "brand": "GregBennett",
+        "title": "GregBennett GD100S/BK",
+        "price": "21944"
+    },
+    {
         "article": "A074691",
         "brand": "GregBennett",
         "title": "GregBennett GD100RS/N",
         "price": "21944"
     },
     {
-        "article": "A074499",
-        "brand": "GregBennett",
-        "title": "GregBennett GD100S/BK",
-        "price": "21944"
+        "article": "A208273",
+        "brand": "Emotive",
+        "title": "Emotive Rightwood D3 eBK",
+        "price": "21990"
     },
     {
         "article": "A208276",
@@ -2994,9 +3036,15 @@
         "price": "21990"
     },
     {
-        "article": "A208273",
+        "article": "A208272",
         "brand": "Emotive",
-        "title": "Emotive Rightwood D3 eBK",
+        "title": "Emotive Rightwood D3 eNA",
+        "price": "21990"
+    },
+    {
+        "article": "A197042",
+        "brand": "OMNI",
+        "title": "Omni D-550E",
         "price": "21990"
     },
     {
@@ -3030,10 +3078,10 @@
         "price": "22310"
     },
     {
-        "article": "A178337",
-        "brand": "PRIMA",
-        "title": "PRIMA MAG212CQ",
-        "price": "22575"
+        "article": "A116482",
+        "brand": "CORT",
+        "title": "Cort CJ-MEDX-NAT CJ Series",
+        "price": "22580"
     },
     {
         "article": "A157441",
@@ -3042,15 +3090,15 @@
         "price": "22700"
     },
     {
-        "article": "A150899",
-        "brand": "LAG",
-        "title": "LAG T-70A NAT",
-        "price": "22810"
-    },
-    {
         "article": "A150902",
         "brand": "LAG",
         "title": "LAG T-70D NAT",
+        "price": "22810"
+    },
+    {
+        "article": "A150899",
+        "brand": "LAG",
+        "title": "LAG T-70A NAT",
         "price": "22810"
     },
     {
@@ -3058,12 +3106,6 @@
         "brand": "TANGLEWOOD",
         "title": "TANGLEWOOD TWR2 DCE",
         "price": "22850"
-    },
-    {
-        "article": "A182551",
-        "brand": "Parkwood",
-        "title": "Parkwood PF51E-WBAG-OP",
-        "price": "22880"
     },
     {
         "article": "A182904",
@@ -3138,12 +3180,6 @@
         "price": "23856"
     },
     {
-        "article": "A188846",
-        "brand": "GregBennett",
-        "title": "GREG BENNETT GD100SCE/LH N",
-        "price": "23896"
-    },
-    {
         "article": "A217481",
         "brand": "MARTINEZ",
         "title": "MARTINEZ FAW-706SEQ",
@@ -3168,6 +3204,12 @@
         "price": "24070"
     },
     {
+        "article": "A176967",
+        "brand": "CORT",
+        "title": "CORT Jade-Classic-SKOP Jade Series",
+        "price": "24070"
+    },
+    {
         "article": "A197676",
         "brand": "Naranda",
         "title": "Naranda DG403CEN",
@@ -3180,10 +3222,10 @@
         "price": "24190"
     },
     {
-        "article": "A179032",
-        "brand": "PRIMA",
-        "title": "PRIMA MAG215C",
-        "price": "24346"
+        "article": "A116220",
+        "brand": "CORT",
+        "title": "Cort AD880CE-BK Standard Series",
+        "price": "24220"
     },
     {
         "article": "A158222",
@@ -3234,15 +3276,15 @@
         "price": "24940"
     },
     {
-        "article": "A081850",
-        "brand": "GregBennett",
-        "title": "GregBennett D1CE/BK",
-        "price": "25010"
-    },
-    {
         "article": "A081851",
         "brand": "GregBennett",
         "title": "GregBennett D-2CE/N",
+        "price": "25010"
+    },
+    {
+        "article": "A081850",
+        "brand": "GregBennett",
+        "title": "GregBennett D1CE/BK",
         "price": "25010"
     },
     {
@@ -3324,15 +3366,21 @@
         "price": "26054"
     },
     {
+        "article": "A217480",
+        "brand": "MARTINEZ",
+        "title": "MARTINEZ FAW-704S/WRD",
+        "price": "26065"
+    },
+    {
         "article": "A217479",
         "brand": "MARTINEZ",
         "title": "MARTINEZ FAW-704S/VS",
         "price": "26065"
     },
     {
-        "article": "A217480",
+        "article": "A217478",
         "brand": "MARTINEZ",
-        "title": "MARTINEZ FAW-704S/WRD",
+        "title": "MARTINEZ FAW-704S/B",
         "price": "26065"
     },
     {
@@ -3372,10 +3420,10 @@
         "price": "26500"
     },
     {
-        "article": "A178609",
-        "brand": "PRIMA",
-        "title": "PRIMA MAG215Q",
-        "price": "26509"
+        "article": "A181768",
+        "brand": "Klever",
+        "title": "Klever KA-714",
+        "price": "26551"
     },
     {
         "article": "A181731",
@@ -3384,21 +3432,15 @@
         "price": "26551"
     },
     {
-        "article": "A181768",
-        "brand": "Klever",
-        "title": "Klever KA-714",
-        "price": "26551"
+        "article": "A152149",
+        "brand": "EPIPHONE",
+        "title": "EPIPHONE DR-100 Natural",
+        "price": "26600"
     },
     {
         "article": "A152147",
         "brand": "EPIPHONE",
         "title": "EPIPHONE DR-100 Ebony",
-        "price": "26600"
-    },
-    {
-        "article": "A152149",
-        "brand": "EPIPHONE",
-        "title": "EPIPHONE DR-100 Natural",
         "price": "26600"
     },
     {
@@ -3414,15 +3456,15 @@
         "price": "26790"
     },
     {
-        "article": "A051316",
-        "brand": "SQUIER",
-        "title": "FENDER SQUIER SA-105CE",
-        "price": "26790"
-    },
-    {
         "article": "A051315",
         "brand": "SQUIER",
         "title": "FENDER SQUIER SA-105CE Black",
+        "price": "26790"
+    },
+    {
+        "article": "A051316",
+        "brand": "SQUIER",
+        "title": "FENDER SQUIER SA-105CE",
         "price": "26790"
     },
     {
@@ -3432,10 +3474,10 @@
         "price": "26997"
     },
     {
-        "article": "A081763",
-        "brand": "GregBennett",
-        "title": "GregBennett OM5/N",
-        "price": "27611"
+        "article": "A091210",
+        "brand": "FENDER",
+        "title": "FENDER CD-60 Black",
+        "price": "27290"
     },
     {
         "article": "A147005",
@@ -3450,15 +3492,15 @@
         "price": "27790"
     },
     {
-        "article": "A146996",
-        "brand": "KEPMA",
-        "title": "KEPMA A1CE Black",
-        "price": "27790"
-    },
-    {
         "article": "A146994",
         "brand": "KEPMA",
         "title": "KEPMA A1CE Natural",
+        "price": "27790"
+    },
+    {
+        "article": "A146996",
+        "brand": "KEPMA",
+        "title": "KEPMA A1CE Black",
         "price": "27790"
     },
     {
@@ -3468,21 +3510,27 @@
         "price": "27990"
     },
     {
+        "article": "A214911",
+        "brand": "FENDER",
+        "title": "FENDER FA-135 Concert All-Mahogany Natural",
+        "price": "28000"
+    },
+    {
         "article": "A144508",
         "brand": "MiLena Music",
         "title": "MiLena-Music ML-F3-AP/EQ",
         "price": "28230"
     },
     {
-        "article": "A087617",
-        "brand": "ENYA",
-        "title": "ENYA EA-X1+",
-        "price": "28300"
-    },
-    {
         "article": "A084242",
         "brand": "ENYA",
         "title": "ENYA ED-X1+",
+        "price": "28300"
+    },
+    {
+        "article": "A087617",
+        "brand": "ENYA",
+        "title": "ENYA EA-X1+",
         "price": "28300"
     },
     {
@@ -3504,12 +3552,6 @@
         "price": "28675"
     },
     {
-        "article": "A147020",
-        "brand": "KEPMA",
-        "title": "KEPMA EDCE Black",
-        "price": "28790"
-    },
-    {
         "article": "A138255",
         "brand": "ENYA",
         "title": "Enya EA-X0/S0.EQ",
@@ -3519,6 +3561,12 @@
         "article": "A147018",
         "brand": "KEPMA",
         "title": "KEPMA EDCE Natural",
+        "price": "28790"
+    },
+    {
+        "article": "A147020",
+        "brand": "KEPMA",
+        "title": "KEPMA EDCE Black",
         "price": "28790"
     },
     {
@@ -3558,15 +3606,27 @@
         "price": "29360"
     },
     {
-        "article": "A158226",
-        "brand": "NG",
-        "title": "NG AM411SCE NA",
-        "price": "29393"
+        "article": "A214909",
+        "brand": "FENDER",
+        "title": "FENDER FA-135 Concert Black",
+        "price": "29390"
+    },
+    {
+        "article": "A214910",
+        "brand": "FENDER",
+        "title": "FENDER FA-135 Concert Natural",
+        "price": "29390"
     },
     {
         "article": "A158214",
         "brand": "NG",
         "title": "NG DM411SCE NA",
+        "price": "29393"
+    },
+    {
+        "article": "A158226",
+        "brand": "NG",
+        "title": "NG AM411SCE NA",
         "price": "29393"
     },
     {
@@ -3618,22 +3678,16 @@
         "price": "30000"
     },
     {
-        "article": "A091211",
-        "brand": "FENDER",
-        "title": "FENDER CD-60 Natural",
-        "price": "30090"
-    },
-    {
         "article": "A091213",
         "brand": "FENDER",
         "title": "FENDER CD-60 Sunburst",
         "price": "30090"
     },
     {
-        "article": "A098372",
-        "brand": "CRAFTER",
-        "title": "CRAFTER HD-100CE/OP.N",
-        "price": "30100"
+        "article": "A091211",
+        "brand": "FENDER",
+        "title": "FENDER CD-60 Natural",
+        "price": "30090"
     },
     {
         "article": "A119104",
@@ -3660,6 +3714,12 @@
         "price": "30190"
     },
     {
+        "article": "A158216",
+        "brand": "NG",
+        "title": "NG AM411SC Peach",
+        "price": "30230"
+    },
+    {
         "article": "A158213",
         "brand": "NG",
         "title": "NG DM411SC BR",
@@ -3669,12 +3729,6 @@
         "article": "A158231",
         "brand": "NG",
         "title": "NG GM411SC NA",
-        "price": "30230"
-    },
-    {
-        "article": "A158216",
-        "brand": "NG",
-        "title": "NG AM411SC Peach",
         "price": "30230"
     },
     {
@@ -3720,12 +3774,6 @@
         "price": "30890"
     },
     {
-        "article": "A157443",
-        "brand": "CASCHA",
-        "title": "CASCHA CGA300",
-        "price": "31000"
-    },
-    {
         "article": "A190050",
         "brand": "Prodipe",
         "title": "Prodipe JMFBB27MHS",
@@ -3736,12 +3784,6 @@
         "brand": "CORT",
         "title": "Cort MR710F-LH-NS MR Series",
         "price": "31500"
-    },
-    {
-        "article": "A174952",
-        "brand": "HORA",
-        "title": "HORA S1125 Travel",
-        "price": "31550"
     },
     {
         "article": "A178741",
@@ -3760,6 +3802,12 @@
         "brand": "Parkwood",
         "title": "Parkwood S23-GT",
         "price": "31830"
+    },
+    {
+        "article": "A182951",
+        "brand": "Parkwood",
+        "title": "Parkwood S22M-NS",
+        "price": "31860"
     },
     {
         "article": "A175358",
@@ -3840,12 +3888,6 @@
         "price": "33100"
     },
     {
-        "article": "A089857",
-        "brand": "FENDER",
-        "title": "FENDER CD-60S Natural",
-        "price": "33590"
-    },
-    {
         "article": "A158239",
         "brand": "NG",
         "title": "NG GM411SCE NA",
@@ -3861,6 +3903,12 @@
         "article": "A147039",
         "brand": "KEPMA",
         "title": "KEPMA EDCE K10 Black Matt",
+        "price": "33590"
+    },
+    {
+        "article": "A089857",
+        "brand": "FENDER",
+        "title": "FENDER CD-60S Natural",
         "price": "33590"
     },
     {
@@ -3906,15 +3954,15 @@
         "price": "34120"
     },
     {
-        "article": "A159341",
-        "brand": "IBANEZ",
-        "title": "IBANEZ PN14MHE-WK",
-        "price": "34690"
-    },
-    {
         "article": "A155493",
         "brand": "IBANEZ",
         "title": "IBANEZ AAD50-TCB",
+        "price": "34690"
+    },
+    {
+        "article": "A159341",
+        "brand": "IBANEZ",
+        "title": "IBANEZ PN14MHE-WK",
         "price": "34690"
     },
     {
@@ -3924,28 +3972,22 @@
         "price": "34890"
     },
     {
-        "article": "A181164",
-        "brand": "ENYA",
-        "title": "Enya EA-X0/BK.S0.EQ",
-        "price": "35200"
-    },
-    {
         "article": "A149947",
         "brand": "ARIA",
         "title": "ARIA-209 N",
         "price": "35290"
     },
     {
-        "article": "A079305",
-        "brand": "CORT",
-        "title": "CORT MR710F-NAT MR Series",
-        "price": "35300"
-    },
-    {
         "article": "A196368",
         "brand": "TOM",
         "title": "TOM GS-C2",
         "price": "35450"
+    },
+    {
+        "article": "A188843",
+        "brand": "GregBennett",
+        "title": "GREG BENNETT OM8 N",
+        "price": "35690"
     },
     {
         "article": "A081761",
@@ -3957,12 +3999,6 @@
         "article": "A131150",
         "brand": "IBANEZ",
         "title": "IBANEZ AAD50-LG",
-        "price": "35690"
-    },
-    {
-        "article": "A188843",
-        "brand": "GregBennett",
-        "title": "GREG BENNETT OM8 N",
         "price": "35690"
     },
     {
@@ -3984,10 +4020,10 @@
         "price": "35830"
     },
     {
-        "article": "A052681",
-        "brand": "IBANEZ",
-        "title": "IBANEZ TCY10E-BK",
-        "price": "35900"
+        "article": "A214908",
+        "brand": "FENDER",
+        "title": "FENDER FA-125CE Natural",
+        "price": "36000"
     },
     {
         "article": "A116746",
@@ -4020,6 +4056,12 @@
         "price": "37600"
     },
     {
+        "article": "A196292",
+        "brand": "ENYA",
+        "title": "Enya NOVA GO/SP1.WH",
+        "price": "37600"
+    },
+    {
         "article": "A196294",
         "brand": "ENYA",
         "title": "Enya NOVA GO/SP1.BL",
@@ -4029,12 +4071,6 @@
         "article": "A196293",
         "brand": "ENYA",
         "title": "Enya NOVA GO Blac",
-        "price": "37600"
-    },
-    {
-        "article": "A196292",
-        "brand": "ENYA",
-        "title": "Enya NOVA GO/SP1.WH",
         "price": "37600"
     },
     {
@@ -4056,15 +4092,15 @@
         "price": "38000"
     },
     {
-        "article": "A183143",
-        "brand": "Parkwood",
-        "title": "Parkwood S61",
-        "price": "38400"
-    },
-    {
         "article": "A182588",
         "brand": "Parkwood",
         "title": "Parkwood S62",
+        "price": "38400"
+    },
+    {
+        "article": "A183143",
+        "brand": "Parkwood",
+        "title": "Parkwood S61",
         "price": "38400"
     },
     {
@@ -4080,21 +4116,21 @@
         "price": "38510"
     },
     {
-        "article": "A215208",
-        "brand": "CORT",
-        "title": "Cort PURE-OCF-NS-WBAG",
-        "price": "38780"
-    },
-    {
         "article": "A215206",
         "brand": "CORT",
         "title": "Cort PURE-OCMF-NS-WBAG",
         "price": "38780"
     },
     {
-        "article": "A097944",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AEG7MH-OPN",
+        "article": "A215208",
+        "brand": "CORT",
+        "title": "Cort PURE-OCF-NS-WBAG",
+        "price": "38780"
+    },
+    {
+        "article": "A171683",
+        "brand": "Donner",
+        "title": "DONNER HUSH-1 Mahogany",
         "price": "38890"
     },
     {
@@ -4104,16 +4140,16 @@
         "price": "38890"
     },
     {
-        "article": "A171683",
-        "brand": "Donner",
-        "title": "DONNER HUSH-1 Mahogany",
+        "article": "A097944",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AEG7MH-OPN",
         "price": "38890"
     },
     {
-        "article": "A170804",
-        "brand": "IBANEZ",
-        "title": "IBANEZ PF16WCE-NT",
-        "price": "38890"
+        "article": "A182280",
+        "brand": "HORA",
+        "title": "HORA W12205-NAT Standart Western",
+        "price": "39290"
     },
     {
         "article": "A079312",
@@ -4134,21 +4170,15 @@
         "price": "39587"
     },
     {
-        "article": "A085524",
-        "brand": "CORT",
-        "title": "Cort L450CL-NS Luce Series",
-        "price": "39670"
+        "article": "A098224",
+        "brand": "LAG",
+        "title": "LAG GLA T170A",
+        "price": "39690"
     },
     {
         "article": "A098375",
         "brand": "LAG",
         "title": "LAG GLA T170D",
-        "price": "39690"
-    },
-    {
-        "article": "A098224",
-        "brand": "LAG",
-        "title": "LAG GLA T170A",
         "price": "39690"
     },
     {
@@ -4161,6 +4191,12 @@
         "article": "A155472",
         "brand": "IBANEZ",
         "title": "IBANEZ AW84-WK",
+        "price": "39890"
+    },
+    {
+        "article": "A052681",
+        "brand": "IBANEZ",
+        "title": "IBANEZ TCY10E-BK",
         "price": "39890"
     },
     {
@@ -4218,15 +4254,15 @@
         "price": "40950"
     },
     {
-        "article": "A147047",
-        "brand": "KEPMA",
-        "title": "KEPMA F0-GA Top Gloss Natural",
-        "price": "40990"
-    },
-    {
         "article": "A152084",
         "brand": "STARSUN",
         "title": "STARSUN GA20",
+        "price": "40990"
+    },
+    {
+        "article": "A147047",
+        "brand": "KEPMA",
+        "title": "KEPMA F0-GA Top Gloss Natural",
         "price": "40990"
     },
     {
@@ -4248,15 +4284,15 @@
         "price": "41800"
     },
     {
-        "article": "A047150",
-        "brand": "IBANEZ",
-        "title": "IBANEZ PF15ECE-BK",
-        "price": "41990"
-    },
-    {
         "article": "A047151",
         "brand": "IBANEZ",
         "title": "IBANEZ PF15ECE-TBS",
+        "price": "41990"
+    },
+    {
+        "article": "A047150",
+        "brand": "IBANEZ",
+        "title": "IBANEZ PF15ECE-BK",
         "price": "41990"
     },
     {
@@ -4332,6 +4368,18 @@
         "price": "43750"
     },
     {
+        "article": "A197146",
+        "brand": "Art & Lutherie",
+        "title": "Art & Lutherie Americana Natural EQ Import Serries",
+        "price": "43990"
+    },
+    {
+        "article": "A197147",
+        "brand": "Art & Lutherie",
+        "title": "Art & Lutherie Legacy Natural EQ Import Series",
+        "price": "43990"
+    },
+    {
         "article": "A062891",
         "brand": "SIGMA",
         "title": "Sigma OMM-ST",
@@ -4380,15 +4428,21 @@
         "price": "45190"
     },
     {
-        "article": "A098892",
-        "brand": "LAG",
-        "title": "LAG GLA T88DCE",
-        "price": "45320"
+        "article": "A116686",
+        "brand": "DOFF",
+        "title": "Doff D024A",
+        "price": "45250"
     },
     {
         "article": "A098888",
         "brand": "LAG",
         "title": "LAG GLA T88ACE",
+        "price": "45320"
+    },
+    {
+        "article": "A098892",
+        "brand": "LAG",
+        "title": "LAG GLA T88DCE",
         "price": "45320"
     },
     {
@@ -4404,18 +4458,6 @@
         "price": "45470"
     },
     {
-        "article": "A097936",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AEWC11-TCB",
-        "price": "46190"
-    },
-    {
-        "article": "A118286",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AEWC11-DVS",
-        "price": "46190"
-    },
-    {
         "article": "A162609",
         "brand": "IBANEZ",
         "title": "IBANEZ ALT20-OPN",
@@ -4428,9 +4470,9 @@
         "price": "46190"
     },
     {
-        "article": "A131149",
+        "article": "A118286",
         "brand": "IBANEZ",
-        "title": "IBANEZ AAD50CE-LG",
+        "title": "IBANEZ AEWC11-DVS",
         "price": "46190"
     },
     {
@@ -4440,10 +4482,10 @@
         "price": "46190"
     },
     {
-        "article": "A215204",
-        "brand": "CORT",
-        "title": "Cort CORE-GA-ABW-WCASE-OPLB",
-        "price": "46330"
+        "article": "A131149",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AAD50CE-LG",
+        "price": "46190"
     },
     {
         "article": "A215201",
@@ -4452,10 +4494,10 @@
         "price": "46330"
     },
     {
-        "article": "A119201",
-        "brand": "CRAFTER",
-        "title": "CRAFTER D-8 /NC",
-        "price": "46700"
+        "article": "A215204",
+        "brand": "CORT",
+        "title": "Cort CORE-GA-ABW-WCASE-OPLB",
+        "price": "46330"
     },
     {
         "article": "A119190",
@@ -4464,15 +4506,21 @@
         "price": "46700"
     },
     {
-        "article": "A097939",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AEG50-DHH",
-        "price": "47290"
+        "article": "A119201",
+        "brand": "CRAFTER",
+        "title": "CRAFTER D-8 /NC",
+        "price": "46700"
     },
     {
         "article": "A162610",
         "brand": "IBANEZ",
         "title": "IBANEZ AEWC12-PMF",
+        "price": "47290"
+    },
+    {
+        "article": "A097939",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AEG50-DHH",
         "price": "47290"
     },
     {
@@ -4560,9 +4608,9 @@
         "price": "49224"
     },
     {
-        "article": "A123413",
+        "article": "A123436",
         "brand": "SIGMA",
-        "title": "Sigma 000M-1",
+        "title": "Sigma GTCE",
         "price": "49500"
     },
     {
@@ -4572,9 +4620,9 @@
         "price": "49500"
     },
     {
-        "article": "A123436",
+        "article": "A123413",
         "brand": "SIGMA",
-        "title": "Sigma GTCE",
+        "title": "Sigma 000M-1",
         "price": "49500"
     },
     {
@@ -4608,15 +4656,15 @@
         "price": "50349"
     },
     {
-        "article": "A083568",
-        "brand": "FENDER",
-        "title": "FENDER CD-60SCE Black",
-        "price": "50390"
-    },
-    {
         "article": "A089493",
         "brand": "FENDER",
         "title": "FENDER CD-60SCE Natural",
+        "price": "50390"
+    },
+    {
+        "article": "A083568",
+        "brand": "FENDER",
+        "title": "FENDER CD-60SCE Black",
         "price": "50390"
     },
     {
@@ -4650,12 +4698,6 @@
         "price": "51050"
     },
     {
-        "article": "A175642",
-        "brand": "DOFF",
-        "title": "DOFF D022-7A",
-        "price": "51390"
-    },
-    {
         "article": "A116306",
         "brand": "CORT",
         "title": "Cort NDX-Baritone-NS NDX Series",
@@ -4674,39 +4716,21 @@
         "price": "51490"
     },
     {
-        "article": "A123425",
-        "brand": "SIGMA",
-        "title": "Sigma JM-SGE",
-        "price": "52000"
-    },
-    {
-        "article": "A123426",
-        "brand": "SIGMA",
-        "title": "Sigma LM-SGE",
-        "price": "52000"
-    },
-    {
         "article": "A147061",
         "brand": "KEPMA",
         "title": "KEPMA F0E-GA Top Gloss Cherry Sunburst",
         "price": "52490"
     },
     {
-        "article": "A212170",
-        "brand": "SIRE",
-        "title": "Sire A3 (GS) VS",
-        "price": "52990"
-    },
-    {
-        "article": "A212174",
-        "brand": "SIRE",
-        "title": "Sire A3 (DS) NT",
-        "price": "52990"
-    },
-    {
         "article": "A212185",
         "brand": "SIRE",
         "title": "Sire A3 (DS) VS",
+        "price": "52990"
+    },
+    {
+        "article": "A212170",
+        "brand": "SIRE",
+        "title": "Sire A3 (GS) VS",
         "price": "52990"
     },
     {
@@ -4722,21 +4746,9 @@
         "price": "53230"
     },
     {
-        "article": "A119066",
-        "brand": "LAG",
-        "title": "LAG T-170D CE",
-        "price": "53440"
-    },
-    {
         "article": "A098894",
         "brand": "LAG",
         "title": "LAG GLA T118DCE",
-        "price": "53440"
-    },
-    {
-        "article": "A119060",
-        "brand": "LAG",
-        "title": "LAG T-170A CE",
         "price": "53440"
     },
     {
@@ -4746,15 +4758,27 @@
         "price": "53440"
     },
     {
+        "article": "A119066",
+        "brand": "LAG",
+        "title": "LAG T-170D CE",
+        "price": "53440"
+    },
+    {
+        "article": "A119060",
+        "brand": "LAG",
+        "title": "LAG T-170A CE",
+        "price": "53440"
+    },
+    {
         "article": "A183490",
         "brand": "Parkwood",
         "title": "Parkwood GA48-NAT",
         "price": "53530"
     },
     {
-        "article": "A147054",
-        "brand": "KEPMA",
-        "title": "KEPMA F1-D Cherry Sunburst",
+        "article": "A155471",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AC340CE-OPN",
         "price": "53590"
     },
     {
@@ -4764,9 +4788,9 @@
         "price": "53590"
     },
     {
-        "article": "A155471",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AC340CE-OPN",
+        "article": "A147054",
+        "brand": "KEPMA",
+        "title": "KEPMA F1-D Cherry Sunburst",
         "price": "53590"
     },
     {
@@ -4794,15 +4818,15 @@
         "price": "54500"
     },
     {
-        "article": "A218723",
-        "brand": "Breedlove",
-        "title": "Breedlove Discovery S Concert Sit-MH",
-        "price": "54990"
-    },
-    {
         "article": "A218724",
         "brand": "Breedlove",
         "title": "Breedlove Discovery S Concerto Sit-MH",
+        "price": "54990"
+    },
+    {
+        "article": "A218722",
+        "brand": "Breedlove",
+        "title": "Breedlove Discovery S Concert MH",
         "price": "54990"
     },
     {
@@ -4836,15 +4860,15 @@
         "price": "56690"
     },
     {
-        "article": "A063627",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AW65ECE-LG",
-        "price": "56690"
-    },
-    {
         "article": "A147051",
         "brand": "KEPMA",
         "title": "KEPMA F0E-GA Top Gloss Natural",
+        "price": "56690"
+    },
+    {
+        "article": "A063627",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AW65ECE-LG",
         "price": "56690"
     },
     {
@@ -4852,12 +4876,6 @@
         "brand": "CRAFTER",
         "title": "CRAFTER GAE-8 /NC",
         "price": "56800"
-    },
-    {
-        "article": "A182259",
-        "brand": "Parkwood",
-        "title": "Parkwood GA88-NAT",
-        "price": "57850"
     },
     {
         "article": "A068284",
@@ -4944,15 +4962,15 @@
         "price": "61210"
     },
     {
-        "article": "A171599",
-        "brand": "IBANEZ",
-        "title": "IBANEZ AEG74-MHS",
-        "price": "61990"
-    },
-    {
         "article": "A118283",
         "brand": "IBANEZ",
         "title": "IBANEZ AEG70-TCH",
+        "price": "61990"
+    },
+    {
+        "article": "A171599",
+        "brand": "IBANEZ",
+        "title": "IBANEZ AEG74-MHS",
         "price": "61990"
     },
     {
@@ -5016,15 +5034,15 @@
         "price": "65533"
     },
     {
-        "article": "A218712",
-        "brand": "Breedlove",
-        "title": "Breedlove Discovery S Concert Edgeburst CE CD-MH",
-        "price": "65990"
-    },
-    {
         "article": "A218713",
         "brand": "Breedlove",
         "title": "Breedlove Discovery S Concert Edgeburst CE MH-MH",
+        "price": "65990"
+    },
+    {
+        "article": "A218712",
+        "brand": "Breedlove",
+        "title": "Breedlove Discovery S Concert Edgeburst CE CD-MH",
         "price": "65990"
     },
     {
@@ -5046,9 +5064,9 @@
         "price": "67000"
     },
     {
-        "article": "A088399",
-        "brand": "TAKAMINE",
-        "title": "TAKAMINE G90 SERIES GN93",
+        "article": "A155468",
+        "brand": "IBANEZ",
+        "title": "IBANEZ FRH10N-NTF",
         "price": "67190"
     },
     {
@@ -5058,28 +5076,16 @@
         "price": "67190"
     },
     {
+        "article": "A088399",
+        "brand": "TAKAMINE",
+        "title": "TAKAMINE G90 SERIES GN93",
+        "price": "67190"
+    },
+    {
         "article": "A088381",
         "brand": "TAKAMINE",
         "title": "TAKAMINE GD93 NAT",
         "price": "67190"
-    },
-    {
-        "article": "A155468",
-        "brand": "IBANEZ",
-        "title": "IBANEZ FRH10N-NTF",
-        "price": "67190"
-    },
-    {
-        "article": "A026809",
-        "brand": "EPIPHONE",
-        "title": "EPIPHONE PR-5E Natural",
-        "price": "67500"
-    },
-    {
-        "article": "A139206",
-        "brand": "TAYLOR",
-        "title": "TAYLOR BT2 Baby Taylor",
-        "price": "68000"
     },
     {
         "article": "A152144",
@@ -5094,6 +5100,18 @@
         "price": "68000"
     },
     {
+        "article": "A139206",
+        "brand": "TAYLOR",
+        "title": "TAYLOR BT2 Baby Taylor",
+        "price": "68000"
+    },
+    {
+        "article": "A184543",
+        "brand": "IBANEZ",
+        "title": "IBANEZ FRH10N-IBF",
+        "price": "68290"
+    },
+    {
         "article": "A088397",
         "brand": "TAKAMINE",
         "title": "TAKAMINE G70 SERIES GJ72CE-NAT",
@@ -5104,12 +5122,6 @@
         "brand": "OVATION",
         "title": "Ovation CS24C-4 Celebrity Standard Mid Cutaway Natural",
         "price": "68974"
-    },
-    {
-        "article": "A088380",
-        "brand": "TAKAMINE",
-        "title": "TAKAMINE GN71CE BSB",
-        "price": "69290"
     },
     {
         "article": "A104140",
@@ -5130,15 +5142,15 @@
         "price": "69990"
     },
     {
-        "article": "A212150",
-        "brand": "SIRE",
-        "title": "Sire A4 (DS) VS",
-        "price": "69990"
-    },
-    {
         "article": "A212134",
         "brand": "SIRE",
         "title": "Sire A4 (DS) NT",
+        "price": "69990"
+    },
+    {
+        "article": "A212150",
+        "brand": "SIRE",
+        "title": "Sire A4 (DS) VS",
         "price": "69990"
     },
     {
@@ -5178,15 +5190,15 @@
         "price": "76681"
     },
     {
-        "article": "A077847",
-        "brand": "SIGMA",
-        "title": "Sigma DMC-STE",
-        "price": "77000"
-    },
-    {
         "article": "A130638",
         "brand": "SIGMA",
         "title": "Sigma 000MC-15E",
+        "price": "77000"
+    },
+    {
+        "article": "A077847",
+        "brand": "SIGMA",
+        "title": "Sigma DMC-STE",
         "price": "77000"
     },
     {
@@ -5218,6 +5230,12 @@
         "brand": "OVATION",
         "title": "Ovation CE44P-SM Celebrity Elite Plus Mid Cutaway Natural Spalted Maple",
         "price": "79559"
+    },
+    {
+        "article": "A095308",
+        "brand": "Kremona",
+        "title": "Kremona M20C Steel String Series",
+        "price": "81450"
     },
     {
         "article": "A062008",
@@ -5256,12 +5274,6 @@
         "price": "83990"
     },
     {
-        "article": "A218720",
-        "brand": "Breedlove",
-        "title": "Breedlove Rainforest S Concert Papillon CE",
-        "price": "83990"
-    },
-    {
         "article": "A218721",
         "brand": "Breedlove",
         "title": "Breedlove Discovery S Concert Edgeburst Bass CE",
@@ -5271,6 +5283,12 @@
         "article": "A218717",
         "brand": "Breedlove",
         "title": "Breedlove Rainforest S Concert Midnight Blue CE",
+        "price": "83990"
+    },
+    {
+        "article": "A218720",
+        "brand": "Breedlove",
+        "title": "Breedlove Rainforest S Concert Papillon CE",
         "price": "83990"
     },
     {
@@ -5304,15 +5322,15 @@
         "price": "89748"
     },
     {
-        "article": "A088400",
-        "brand": "TAKAMINE",
-        "title": "TAKAMINE G90 SERIES GN93CE",
-        "price": "90290"
-    },
-    {
         "article": "A155470",
         "brand": "IBANEZ",
         "title": "IBANEZ AEWC400-AMS",
+        "price": "90290"
+    },
+    {
+        "article": "A088400",
+        "brand": "TAKAMINE",
+        "title": "TAKAMINE G90 SERIES GN93CE",
         "price": "90290"
     },
     {
@@ -5370,6 +5388,12 @@
         "price": "99990"
     },
     {
+        "article": "A197105",
+        "brand": "OMNI",
+        "title": "Omni SC-90 N",
+        "price": "99990"
+    },
+    {
         "article": "A123424",
         "brand": "SIGMA",
         "title": "Sigma JM-SG45",
@@ -5380,6 +5404,18 @@
         "brand": "SIGMA",
         "title": "Sigma SDM-STE",
         "price": "102500"
+    },
+    {
+        "article": "A197051",
+        "brand": "NORMAN",
+        "title": "Norman B18 PARLOR CB GT Q-DISCRETE",
+        "price": "105990"
+    },
+    {
+        "article": "A197047",
+        "brand": "NORMAN",
+        "title": "Norman B18 CW MJ CB A/ E",
+        "price": "106990"
     },
     {
         "article": "A170979",
@@ -5394,16 +5430,22 @@
         "price": "109630"
     },
     {
+        "article": "A218716",
+        "brand": "Breedlove",
+        "title": "Breedlove Pursuit Exotic S Concerto Tiger's Eye CE",
+        "price": "109990"
+    },
+    {
         "article": "A197052",
         "brand": "NORMAN",
         "title": "Norman B20 Natural GT Presys",
         "price": "109990"
     },
     {
-        "article": "A218716",
-        "brand": "Breedlove",
-        "title": "Breedlove Pursuit Exotic S Concerto Tiger's Eye CE",
-        "price": "109990"
+        "article": "A168700",
+        "brand": "CORT",
+        "title": "CORT Cut-Craft-Limited-WCASE-N Limited Edition",
+        "price": "110890"
     },
     {
         "article": "A139207",
@@ -5436,15 +5478,15 @@
         "price": "126000"
     },
     {
-        "article": "A147077",
-        "brand": "KEPMA",
-        "title": "KEPMA A1-D Natural",
-        "price": "128090"
-    },
-    {
         "article": "A147080",
         "brand": "KEPMA",
         "title": "KEPMA A1-GA Natural",
+        "price": "128090"
+    },
+    {
+        "article": "A147077",
+        "brand": "KEPMA",
+        "title": "KEPMA A1-D Natural",
         "price": "128090"
     },
     {
@@ -5490,10 +5532,10 @@
         "price": "135490"
     },
     {
-        "article": "A123441",
-        "brand": "SIGMA",
-        "title": "Sigma SDR-28",
-        "price": "145000"
+        "article": "A184181",
+        "brand": "D`ANGELICO",
+        "title": "D`ANGELICO Excel Lexington Vintage Sunset",
+        "price": "144990"
     },
     {
         "article": "A188695",
@@ -5518,12 +5560,6 @@
         "brand": "CRAFTER",
         "title": "CRAFTER SRP G -27ce",
         "price": "149350"
-    },
-    {
-        "article": "A136823",
-        "brand": "CRAFTER",
-        "title": "CRAFTER PG G-MAHOce",
-        "price": "150050"
     },
     {
         "article": "A138044",
@@ -5574,16 +5610,16 @@
         "price": "172270"
     },
     {
+        "article": "A196300",
+        "brand": "NORMAN",
+        "title": "Norman ST30 HB ELEMENT",
+        "price": "174990"
+    },
+    {
         "article": "A122199",
         "brand": "EPIPHONE",
         "title": "EPIPHONE J-200 Aged Vintage Sunburst",
         "price": "178200"
-    },
-    {
-        "article": "A138041",
-        "brand": "CRAFTER",
-        "title": "CRAFTER SR G-1000ce",
-        "price": "179550"
     },
     {
         "article": "A138039",
@@ -5592,10 +5628,22 @@
         "price": "179550"
     },
     {
+        "article": "A138041",
+        "brand": "CRAFTER",
+        "title": "CRAFTER SR G-1000ce",
+        "price": "179550"
+    },
+    {
         "article": "A139198",
         "brand": "TAYLOR",
         "title": "TAYLOR 214ce 200 Series",
         "price": "180200"
+    },
+    {
+        "article": "A139194",
+        "brand": "TAYLOR",
+        "title": "TAYLOR 110e 100 Series",
+        "price": "184000"
     },
     {
         "article": "A146740",
@@ -5664,6 +5712,12 @@
         "price": "205500"
     },
     {
+        "article": "A197035",
+        "brand": "NORMAN",
+        "title": "Norman ST40 CW NATURAL HG ELEMENT",
+        "price": "209990"
+    },
+    {
         "article": "A138040",
         "brand": "CRAFTER",
         "title": "CRAFTER LX G -2000ce",
@@ -5700,10 +5754,22 @@
         "price": "245000"
     },
     {
+        "article": "A197034",
+        "brand": "NORMAN",
+        "title": "Norman ST50 CB HG ANTHEM",
+        "price": "259990"
+    },
+    {
         "article": "A117122",
         "brand": "Maton",
         "title": "Maton PERFORMER",
         "price": "263000"
+    },
+    {
+        "article": "A197033",
+        "brand": "NORMAN",
+        "title": "Norman ST68 MJ NATURALl HG ANTHEM",
+        "price": "289990"
     },
     {
         "article": "A117128",
@@ -5724,10 +5790,10 @@
         "price": "304000"
     },
     {
-        "article": "A130632",
-        "brand": "Maton",
-        "title": "Maton EBW70C",
-        "price": "314000"
+        "article": "A197072",
+        "brand": "GODIN",
+        "title": "Godin Fairmount Concert Hall LTD Rosewood HG EQ",
+        "price": "309990"
     },
     {
         "article": "A117118",
@@ -5736,10 +5802,28 @@
         "price": "314000"
     },
     {
+        "article": "A130632",
+        "brand": "Maton",
+        "title": "Maton EBW70C",
+        "price": "314000"
+    },
+    {
         "article": "A130633",
         "brand": "Maton",
         "title": "Maton EBW808C",
         "price": "314000"
+    },
+    {
+        "article": "A118600",
+        "brand": "TAYLOR",
+        "title": "GTe Urban Ash",
+        "price": "342000"
+    },
+    {
+        "article": "A197040",
+        "brand": "LARRIVEE",
+        "title": "Larrivee OM-40-MH LRB",
+        "price": "360000"
     },
     {
         "article": "A139201",
@@ -5766,15 +5850,21 @@
         "price": "396000"
     },
     {
-        "article": "A117116",
-        "brand": "Maton",
-        "title": "Maton EBG808C-TE",
-        "price": "407000"
+        "article": "A197038",
+        "brand": "LARRIVEE",
+        "title": "Larrivee OM-40-RW LRB",
+        "price": "400000"
     },
     {
         "article": "A130631",
         "brand": "Maton",
         "title": "Maton EBG808C-NASHVILLE",
+        "price": "407000"
+    },
+    {
+        "article": "A117116",
+        "brand": "Maton",
+        "title": "Maton EBG808C-TE",
         "price": "407000"
     },
     {

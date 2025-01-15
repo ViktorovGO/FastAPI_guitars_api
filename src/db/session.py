@@ -6,7 +6,7 @@ from sqlalchemy.ext.asyncio import (
                 AsyncSession,
                 async_scoped_session,
                 )
-from app.core.config import settings
+from src.core.config import settings
 
 
 
@@ -33,11 +33,10 @@ class DataBaseHelper():
             await session.close()
     
 
-        
-        
+           
 db_helper = DataBaseHelper(
-    url=settings.db_url, 
-    echo=settings.db_echo
+    url=settings.db.db_url, 
+    echo=settings.db.db_echo
 )
 
 

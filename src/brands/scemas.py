@@ -1,8 +1,9 @@
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
+from typing import Annotated
 
 
 class BrandBase(BaseModel):
-    name: str
+    name: Annotated[str, Field(..., min_length=1, max_length=20)]
 
 
 class BrandCreate(BrandBase):

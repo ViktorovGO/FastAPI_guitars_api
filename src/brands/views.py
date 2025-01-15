@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.ext.asyncio import AsyncSession
-from app.db import db_helper
+from src.db import db_helper
 from .scemas import BrandCreate, Brand, BrandUpdate, BrandUpdatePartial
-from app.guitars.scemas import Guitar
+from src.guitars.scemas import Guitar
 from . import crud
 from .dependencies import brand_by_id
 

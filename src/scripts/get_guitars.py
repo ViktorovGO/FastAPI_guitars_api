@@ -30,6 +30,7 @@ async def get_urls(session: aiohttp.ClientSession, semaphore, url: str) -> list[
 
 async def get_guitar_info(session: aiohttp.ClientSession, semaphore, url: str):
     """Получение информации о гитаре"""
+    
     resp = await fetch(session, url, semaphore)
     soup = BeautifulSoup(resp, 'lxml')
     item = soup.find('a', {'class': 'mt-button _red _large'})
@@ -69,5 +70,5 @@ if __name__ == "__main__":
 
     filtered_guitars = sorted([guitar for guitar in guitars if all(value is not None for value in guitar.values())], key=lambda x: int(x['price']))
 
-    with open('app/scripts/guitars.json', 'w', encoding='utf-8') as file:
+    with open('src/scripts/guitars.json', 'w', encoding='utf-8') as file:
         json.dump(filtered_guitars, file, ensure_ascii=False, indent=4)

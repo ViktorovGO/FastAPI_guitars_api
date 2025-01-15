@@ -5,9 +5,9 @@ from sqlalchemy import engine_from_config
 from sqlalchemy import pool
 
 from alembic import context
-from app.db import Base
-from app.brands.models import Brand
-from app.guitars.models import Guitar
+from src.db import Base
+from src.brands.models import Brand
+from src.guitars.models import Guitar
 
 
 
