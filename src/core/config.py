@@ -1,9 +1,13 @@
-from pydantic_settings import BaseSettings
-from pydantic import Field, ConfigDict
-from dotenv import load_dotenv
 import os
+from typing import Literal
+from pydantic_settings import BaseSettings
+from dotenv import load_dotenv
+from pydantic import Field, ConfigDict
 
 load_dotenv()
+
+LOG_DEFAULT_FORMAT = "[%(asctime)s.%(msecs)03d] %(module)10s:%(lineno)-3d %(levelname)-7s - %(message)s"
+
 
 class db_settings(BaseSettings):
     DB_USER: str = Field('postgres', json_schema_extra=({"env":"DB_USER"}))
@@ -18,8 +22,35 @@ class db_settings(BaseSettings):
         }:{self.DB_PORT}/{self.DB_NAME}"
 
 
+class Run(BaseSettings):
+    host: str = "0.0.0.0"
+    port: int = 8000
+
+
+class GunicornConfig(BaseSettings):
+    host: str = "0.0.0.0"
+    port: int = 8000
+    workers: int = 4
+    timeout: int = 900
+
+
+class LoggingConfig(BaseSettings):
+    log_level: Literal[
+        'debug',
+        'info',
+        'warning',
+        'error',
+        'critical',
+    ] = 'info'
+    log_format: str = LOG_DEFAULT_FORMAT
+
+
 class Settings(BaseSettings):
     db: db_settings = db_settings()
+    run: Run = Run()
+    gunicorn: GunicornConfig = GunicornConfig()
+    logging: LoggingConfig = LoggingConfig()
+
     model_config = ConfigDict(env_file="../../.env")
 
 

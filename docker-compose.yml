@@ -3,7 +3,7 @@ version: '3'
 services:
   api:
     build: .
-    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run python src/main.py"]
+    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
     restart: always
     ports:
       - "8000:8000"
