@@ -3,14 +3,21 @@ name: CI
 on:
   push:
     branches:
-      - master
   pull_request:
     branches:
       - master
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build docker-compose
+        run: docker-compose build
   test:
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,7 +37,7 @@ jobs:
           black . --check
       - name: Run tests
         run: |
-          pytest
+          docker-compose run -rm api poetry runpytest
       
 
 
