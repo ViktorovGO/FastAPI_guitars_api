@@ -15,7 +15,7 @@ class db_settings(BaseSettings):
     DB_PASS: str = Field("postgres", json_schema_extra=({"env": "DB_PASS"}))
     DB_NAME: str = Field("postgres", json_schema_extra=({"env": "DB_NAME"}))
     DB_HOST: str = Field("127.0.0.1", json_schema_extra=({"env": "DB_HOST"}))
-    DB_PORT: int = Field(5433, json_schema_extra=({"env": "DB_PORT"}))
+    DB_PORT: int = Field(5432, json_schema_extra=({"env": "DB_PORT"}))
     db_echo: bool = True
 
     @property
@@ -27,8 +27,8 @@ class db_settings(BaseSettings):
 
 
 class Run(BaseSettings):
-    host: str = "127.0.0.1"
-    port: int = 8001
+    host: str = "0.0.0.0"
+    port: int = 8000
 
 
 class GunicornConfig(BaseSettings):

@@ -1,36 +1,73 @@
-name: CI
+name: CI/CD
 
 on:
   push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
+permissions:
+  contents: write
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ vars.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+      -
+        name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+      -
+        name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      -
+        name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          push: true
+          tags: ${{ vars.DOCKERHUB_USERNAME }}/fastapi_guitars_api-api:latest
   test:
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Instaling python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13' 
-      - name: Installing flake8-black and black and pytest with httpx
+      - name: Install Poetry
+        uses: snok/install-poetry@v1 
+      - name: Installing Requirements
         run: |
-          python -m pip install --upgrade pip
-          pip install flake8-black black pytest-asyncio httpx
+          poetry install --no-root
       - name: Run flake8
         run: |
-          flake8 .
+          poetry run flake8 .
       - name: Run black
         run: |
-          black . --check
-      - name: Run tests
+          poetry run black . --check
+      - name: docker-compose up
+        uses: hoverkraft-tech/compose-action@v2.0.1
+      - name: Wait for DB
         run: |
-          pytest
+          sleep 10  # Ожидание готовности базы данных
+      - name: Run pytest
+        run: |
+          poetry run pytest
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: docker-compose up
+        uses: hoverkraft-tech/compose-action@v2.0.1
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .
+
       
 
 
