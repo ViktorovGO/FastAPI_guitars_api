@@ -69,7 +69,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            whoami
+            cd FastAPI_guitars_api
             docker compose up -d
       
 
