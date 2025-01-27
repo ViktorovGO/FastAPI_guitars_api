@@ -6,16 +6,19 @@ from pydantic import Field, ConfigDict
 
 load_dotenv()
 
-LOG_DEFAULT_FORMAT = "[%(asctime)s.%(msecs)03d] %(module)10s:%(lineno)-3d %(levelname)-7s - %(message)s"
+LOG_DEFAULT_FORMAT = (
+    "[%(asctime)s.%(msecs)03d] %(module)10s:%(lineno)-3d %(levelname)-7s - %(message)s"
+)
 
 
 class db_settings(BaseSettings):
-    DB_USER: str = Field('postgres', json_schema_extra=({"env":"DB_USER"}))
-    DB_PASS: str = Field('postgres', json_schema_extra=({"env":"DB_PASS"}))
-    DB_NAME: str = Field('postgres', json_schema_extra=({"env":"DB_NAME"}))
-    DB_HOST: str = Field('127.0.0.1', json_schema_extra=({"env":"DB_HOST"}))
-    DB_PORT: int = Field(5433, json_schema_extra=({"env":"DB_PORT"}))
+    DB_USER: str = Field("postgres", json_schema_extra=({"env": "DB_USER"}))
+    DB_PASS: str = Field("postgres", json_schema_extra=({"env": "DB_PASS"}))
+    DB_NAME: str = Field("postgres", json_schema_extra=({"env": "DB_NAME"}))
+    DB_HOST: str = Field("127.0.0.1", json_schema_extra=({"env": "DB_HOST"}))
+    DB_PORT: int = Field(5433, json_schema_extra=({"env": "DB_PORT"}))
     db_echo: bool = True
+
     @property
     def db_url(self) -> str:
         return f"postgresql+asyncpg://{self.DB_USER}:{self.DB_PASS}@{self.DB_HOST\
@@ -36,12 +39,12 @@ class GunicornConfig(BaseSettings):
 
 class LoggingConfig(BaseSettings):
     log_level: Literal[
-        'debug',
-        'info',
-        'warning',
-        'error',
-        'critical',
-    ] = 'info'
+        "debug",
+        "info",
+        "warning",
+        "error",
+        "critical",
+    ] = "info"
     log_format: str = LOG_DEFAULT_FORMAT
 
 
@@ -55,4 +58,3 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-

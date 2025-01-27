@@ -12,6 +12,7 @@ class GuitarBase(BaseModel):
 class GuitarCreate(GuitarBase):
     pass
 
+
 class GuitarUpdate(GuitarBase):
     pass
 

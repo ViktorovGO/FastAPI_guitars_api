@@ -36,10 +36,10 @@ async def get_brands_guitars(brand: Brand) -> list[Guitar]:
 
 
 async def update_brand(
-        brand_data: BrandUpdate | BrandUpdatePartial, 
-        brand: Brand,
-        session: AsyncSession, 
-        partial: bool = False
+    brand_data: BrandUpdate | BrandUpdatePartial,
+    brand: Brand,
+    session: AsyncSession,
+    partial: bool = False,
 ):
     for field, value in brand_data.model_dump(exclude_unset=partial).items():
         setattr(brand, field, value)

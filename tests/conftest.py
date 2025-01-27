@@ -6,10 +6,10 @@ from src import app
 
 @pytest_asyncio.fixture
 async def client() -> AsyncClient:
-    return AsyncClient(transport=ASGITransport(app=app), base_url="http://testserver") 
+    return AsyncClient(transport=ASGITransport(app=app), base_url="http://testserver")
 
 
-@pytest.fixture(scope='session')
+@pytest.fixture(scope="session")
 def event_loop():
     loop = asyncio.new_event_loop()
     yield loop
