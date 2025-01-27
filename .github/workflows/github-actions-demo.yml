@@ -52,7 +52,7 @@ jobs:
         uses: hoverkraft-tech/compose-action@v2.0.1
       - name: Run pytest
         run: |
-          docker compose exec api poetry run pytest
+          pytest
       
       
 
