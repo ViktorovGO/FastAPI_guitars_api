@@ -46,7 +46,7 @@ jobs:
         run: |
           poetry run black . --check
       - name: docker-compose up
-        uses: hoverkraft-tech/compose-action@v2.0.1
+        uses: docker compose up -d
       - name: Run pytest
         run: |
           poetry run pytest
