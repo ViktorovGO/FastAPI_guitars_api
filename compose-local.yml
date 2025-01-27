@@ -1,7 +1,7 @@
 version: '3'
 services:
   api:
-    image: fl4shr/fastapi_guitars_api-api:latest
+    build: .
     entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
     restart: always
     ports:
