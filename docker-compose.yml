@@ -1,0 +1,41 @@
+version: '3'
+services:
+  api:
+    image: fl4shr/fastapi_guitars_api-api:latest
+    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_USER=postgres
+      - DB_PASS=postgres
+      - DB_NAME=postgres
+      - DB_HOST=db
+      - DB_PORT=5432
+    depends_on:
+      - db
+    
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: test@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: 123
+    ports:
+      - "82:80"
+    depends_on:
+      - db
+
+volumes:
+  pgdata:
