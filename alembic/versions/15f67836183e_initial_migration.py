@@ -1,15 +1,12 @@
 """Initial migration
 
 Revision ID: 15f67836183e
-Revises: 
+Revises:
 Create Date: 2025-01-09 18:16:42.248596
 
 """
 
 from typing import Sequence, Union
-
-from alembic import op
-import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.

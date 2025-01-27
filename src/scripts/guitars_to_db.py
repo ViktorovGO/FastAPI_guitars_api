@@ -23,7 +23,6 @@ async def guitars_to_db(session: AsyncSession, guitars: list):
             brand_id = object.id
         obj["brand_id"] = int(brand_id)
         obj["price"] = int(obj["price"])
-        # Найдем существующую запись по уникальным полям (например, id или combination of fields)
         guitar = await session.execute(
             select(Guitar).filter_by(
                 brand_id=obj["brand_id"],

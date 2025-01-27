@@ -1,13 +1,8 @@
-import os
 from logging.config import fileConfig
 
-from sqlalchemy import engine_from_config
-from sqlalchemy import pool
 
 from alembic import context
 from src.db import Base
-from src.brands.models import Brand
-from src.guitars.models import Guitar
 
 
 from dotenv import load_dotenv

@@ -29,5 +29,6 @@ if __name__ == "__main__":
     uvicorn.run("main:app", host=settings.run.host, port=settings.run.port, reload=True)
 
 """
-gunicorn main:app --workers --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
+gunicorn main:app --workers --worker-class \
+    uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
 """
