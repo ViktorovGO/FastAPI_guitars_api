@@ -10,11 +10,6 @@ from .dependencies import brand_by_id
 router = APIRouter()
 
 
-@router.get("/test")
-async def test(session: AsyncSession = Depends(db_helper.session_dependency)):
-    return "OK"
-
-
 @router.get("/brands", response_model=list[Brand])
 async def get_brands(session: AsyncSession = Depends(db_helper.session_dependency)):
     return await crud.get_brands(session=session)
