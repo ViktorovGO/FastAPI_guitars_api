@@ -2,7 +2,7 @@ version: '3'
 
 services:
   api:
-    build: .
+    image: fastapi_guitars_api-api:latest
     entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
     restart: always
     ports:
