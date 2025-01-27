@@ -9,19 +9,16 @@ on:
       - master
 
 jobs:
+  
   test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Instaling python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13' 
-      - name: Installing flake8-black and black and pytest with httpx
-        run: |
-          python -m pip install --upgrade pip
-          pip install flake8-black black pytest-asyncio httpx
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+      - name: Install Requirements
+        run: poetry install --no-root && poetry shell
       - name: Run flake8
         run: |
           flake8 .
