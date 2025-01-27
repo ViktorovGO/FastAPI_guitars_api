@@ -70,7 +70,7 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             whoami
-            ls -la
+            docker compose up -d
       
 
 
