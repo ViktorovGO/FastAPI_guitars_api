@@ -78,7 +78,7 @@ jobs:
           script: |
             cd FastAPI_guitars_api
             export APP_PORT=${{ secrets.APP_PORT }}
-            export DB_NAME=${{ secrets.DB_NAME }}
+            export DB_NAME=poop
             export DB_USER=${{ secrets.DB_USER }}
             export DB_PASS=${{ secrets.DB_PASS }}
             export DB_PORT=${{ secrets.DB_PORT }}
