@@ -63,6 +63,7 @@ jobs:
           sleep 10  # Ожидание готовности базы данных
       - name: Run pytest
         run: |
+          printenv
           poetry run pytest
   deploy:
     runs-on: ubuntu-latest
