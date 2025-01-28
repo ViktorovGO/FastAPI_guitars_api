@@ -82,6 +82,7 @@ jobs:
             export DB_USER=${{ secrets.DB_USER }}
             export DB_PASS=${{ secrets.DB_PASS }}
             export DB_PORT=${{ secrets.DB_PORT }}
+            git checkout master
             git pull
             ls -la
             docker compose pull
