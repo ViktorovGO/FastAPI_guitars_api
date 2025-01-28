@@ -49,20 +49,12 @@ jobs:
       - name: Run black
         run: |
           poetry run black . --check
-      - name: docker-compose up
-        uses: hoverkraft-tech/compose-action@v2.0.1
-        env:
-          APP_PORT: ${{ secrets.APP_PORT }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASS: ${{ secrets.DB_PASS }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-      - name: Wait for DB
+      - name: Run db
         run: |
-          sleep 10  # Ожидание готовности базы данных
+          docker compose up db -d
       - name: Run pytest
         run: |
-          printenv
+          poetry run alembic upgrade head
           poetry run pytest
   deploy:
     runs-on: ubuntu-latest
@@ -76,7 +68,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
         env:
-          APP_PORT: ${{ secrets.APP_PORT }}
+          APP_PORT: 8005
           DB_NAME: ${{ secrets.DB_NAME }}
           DB_USER: ${{ secrets.DB_USER }}
           DB_PASS: ${{ secrets.DB_PASS }}
