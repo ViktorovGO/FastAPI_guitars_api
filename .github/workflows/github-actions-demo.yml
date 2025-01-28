@@ -57,18 +57,10 @@ jobs:
           DB_USER: ${{ secrets.DB_USER }}
           DB_PASS: ${{ secrets.DB_PASS }}
           DB_PORT: ${{ secrets.DB_PORT }}
-          DB_HOST: db
       - name: Wait for DB
         run: |
           sleep 10  # Ожидание готовности базы данных
       - name: Run pytest
-        env:
-          APP_PORT: ${{ secrets.APP_PORT }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASS: ${{ secrets.DB_PASS }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-          DB_HOST: db
         run: |
           printenv
           poetry run pytest
