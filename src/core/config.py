@@ -16,7 +16,7 @@ class db_settings(BaseSettings):
     DB_NAME: str = Field("postgres", json_schema_extra=({"env": "DB_NAME"}))
     DB_HOST: str = Field("127.0.0.1", json_schema_extra=({"env": "DB_HOST"}))
     DB_PORT: int = Field(5432, json_schema_extra=({"env": "DB_PORT"}))
-    db_echo: bool = True
+    db_echo: bool = Field(True, json_schema_extra=({"env": "DEBUG"}))
 
     @property
     def db_url(self) -> str:

@@ -11,6 +11,7 @@ services:
       - DB_PASS=${DB_PASS}
       - DB_HOST=db
       - DB_PORT=${DB_PORT}
+      - DEBUG=${DEBUG:-False}
     depends_on:
       - db
     
