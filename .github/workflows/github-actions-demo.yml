@@ -77,7 +77,7 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd FastAPI_guitars_api
-            export APP_PORT=8005
+            export APP_PORT=${{ secrets.APP_PORT }}
             export DB_NAME=${{ secrets.DB_NAME }}
             export DB_USER=${{ secrets.DB_USER }}
             export DB_PASS=${{ secrets.DB_PASS }}
