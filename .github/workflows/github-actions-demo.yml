@@ -84,6 +84,7 @@ jobs:
           script: |
             cd FastAPI_guitars_api
             git pull
+            ls -la
             docker compose pull
             docker compose up -d
           
