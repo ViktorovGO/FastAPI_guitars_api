@@ -4,13 +4,13 @@ services:
     entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
     restart: always
     ports:
-      - "${APP_PORT:-8000}:8000"
+      - "${APP_PORT}:8000"
     environment:
-      - DB_NAME=${DB_NAME:-postgres}
-      - DB_USER=${DB_USER:-postgres}
-      - DB_PASS=${DB_PASS:-password}
+      - DB_NAME=${DB_NAME}
+      - DB_USER=${DB_USER}
+      - DB_PASS=${DB_PASS}
       - DB_HOST=db
-      - DB_PORT=${DB_PORT:-5432}
+      - DB_PORT=${DB_PORT}
     depends_on:
       - db
     
@@ -18,11 +18,11 @@ services:
     image: postgres
     restart: always
     environment:
-      POSTGRES_DB: ${DB_NAME:-postgres}
-      POSTGRES_USER: ${DB_USER:-postgres}
-      POSTGRES_PASSWORD: ${DB_PASS:-password}
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
     ports:
-      - "${DB_PORT:-5432}:5432"
+      - "${DB_PORT}:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
   pgadmin:
