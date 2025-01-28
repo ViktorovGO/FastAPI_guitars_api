@@ -83,8 +83,8 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           script: |
             cd FastAPI_guitars_api
-            git checkout ${GITHUB_REF#refs/heads/}
-            git pull origin ${GITHUB_REF#refs/heads/}
+            git checkout ${GITHUB_REF##*/}
+            git pull origin ${GITHUB_REF##*/}
             docker compose pull
             docker compose up -d
           
