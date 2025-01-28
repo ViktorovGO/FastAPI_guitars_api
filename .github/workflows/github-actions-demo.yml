@@ -75,14 +75,13 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
-        env:
-          APP_PORT: 8005
-          DB_NAME: ${{ secrets.DB_NAME }}
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASS: ${{ secrets.DB_PASS }}
-          DB_PORT: ${{ secrets.DB_PORT }}
           script: |
             cd FastAPI_guitars_api
+            export APP_PORT=${{ secrets.APP_PORT }}
+            export DB_NAME=${{ secrets.DB_NAME }}
+            export DB_USER=${{ secrets.DB_USER }}
+            export DB_PASS=${{ secrets.DB_PASS }}
+            export DB_PORT=${{ secrets.DB_PORT }}
             git pull
             ls -la
             docker compose pull
