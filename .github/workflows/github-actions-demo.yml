@@ -81,7 +81,7 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           script: |
             cd FastAPI_guitars_api
-            docker compose stop
+            EXPORT APP_PORT=${APP_PORT}
             docker compose pull
             docker compose up -d
           
