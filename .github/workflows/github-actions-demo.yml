@@ -84,7 +84,6 @@ jobs:
             echo "DB_PORT=${{ secrets.DB_PORT }}" >> .env
             git checkout master
             git pull
-            ls -la
             docker compose pull
             docker compose up -d
           

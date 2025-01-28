@@ -22,11 +22,11 @@
 
     Для запуска проекта на вашей локальной машине вам нужно будет настроить переменные окружения. Для этого следуйте этим шагам:
 
-    1. Скопируйте файл `.env.template` в `.env`:
+    - Скопируйте файл `.env.template` в `.env`:
     ```bash
     cp .env.template .env
     ```
-    2. Откройте файл .env и укажите нужные значения для переменных окружения. Пример:
+    - Откройте файл .env и укажите нужные значения для переменных окружения. Пример:
     ```
     DB_NAME=my_database_name
     DB_USER=my_database_user
@@ -47,14 +47,17 @@
 1. Откройте браузер и перейдите по адресу http://127.0.0.1:8000/docs, чтобы получить доступ к Swagger UI.
 
 ## Обновление данных
-
+1. Установите необходимые зависимости
+    ```bash
+    poetry install
+    ```
 1. Парсинг с сайта muztorg.ru
     ```bash
-    python src/scripts/get_guitars.py
+    poetry run python src/scripts/get_guitars.py
     ```
 2. Запись полученных данных в БД
     ```bash
-    python src/scripts/guitars_to_db.py
+    poetry run python src/scripts/guitars_to_db.py
     ```
 
 ## Вклад
