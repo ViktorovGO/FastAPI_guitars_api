@@ -52,6 +52,7 @@ jobs:
       - name: docker-compose up
         uses: hoverkraft-tech/compose-action@v2.0.1
         env:
+          APP_PORT: ${{ secrets.APP_PORT }}
           DB_NAME: ${{ secrets.DB_NAME }}
           DB_USER: ${{ secrets.DB_USER }}
           DB_PASS: ${{ secrets.DB_PASS }}
