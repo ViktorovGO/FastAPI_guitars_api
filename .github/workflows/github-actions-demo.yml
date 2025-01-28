@@ -66,6 +66,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: test
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: executing remote ssh commands using ssh key
         uses: appleboy/ssh-action@v1.2.0
         with:
@@ -81,7 +83,8 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           script: |
             cd FastAPI_guitars_api
-            EXPORT APP_PORT=${APP_PORT}
+            git checkout ${GITHUB_REF#refs/heads/}
+            git pull origin ${GITHUB_REF#refs/heads/}
             docker compose pull
             docker compose up -d
           
