@@ -54,8 +54,14 @@ jobs:
           docker compose up db -d
       - name: Run pytest
         run: |
+          printenv
           poetry run alembic upgrade head
           poetry run pytest
+    env:
+      DB_NAME: ${{ secrets.DB_NAME }}
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASS: ${{ secrets.DB_PASS }}
+      DB_PORT: ${{ secrets.DB_PORT }}
   deploy:
     runs-on: ubuntu-latest
     needs: test
