@@ -11,12 +11,12 @@ LOG_DEFAULT_FORMAT = (
 
 
 class db_settings(BaseSettings):
-    DB_USER: str = Field("postgres", json_schema_extra=({"env": "DB_USER"}))
-    DB_PASS: str = Field("postgres", json_schema_extra=({"env": "DB_PASS"}))
-    DB_NAME: str = Field("postgres", json_schema_extra=({"env": "DB_NAME"}))
-    DB_HOST: str = Field("127.0.0.1", json_schema_extra=({"env": "DB_HOST"}))
-    DB_PORT: int = Field(5432, json_schema_extra=({"env": "DB_PORT"}))
-    db_echo: bool = Field(True, json_schema_extra=({"env": "DEBUG"}))
+    DB_USER: str = Field(json_schema_extra=({"env": "DB_USER"}))
+    DB_PASS: str = Field(json_schema_extra=({"env": "DB_PASS"}))
+    DB_NAME: str = Field(json_schema_extra=({"env": "DB_NAME"}))
+    DB_HOST: str = Field(json_schema_extra=({"env": "DB_HOST"}))
+    DB_PORT: int = Field(json_schema_extra=({"env": "DB_PORT"}))
+    db_echo: bool = Field(True, validation_alias="DEBUG")
 
     @property
     def db_url(self) -> str:
