@@ -26,7 +26,7 @@ async def root():
     return {"message": "Go to /docs to see the API documentation."}
 
 
-@app.get("/update-db", tags=["Update DB"])
+@app.post("/update-db", tags=["Update DB"])
 async def update_db():
     try:
         guitars = await get_guitars()

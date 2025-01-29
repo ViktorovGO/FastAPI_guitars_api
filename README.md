@@ -46,20 +46,15 @@
 
 1. Откройте браузер и перейдите по адресу http://127.0.0.1:8000/docs, чтобы получить доступ к Swagger UI.
 
-## Обновление данных
-1. Установите необходимые зависимости
-    ```bash
-    poetry install
-    ```
-1. Парсинг с сайта muztorg.ru
-    ```bash
-    poetry run python src/scripts/get_guitars.py
-    ```
-2. Запись полученных данных в БД
-    ```bash
-    poetry run python src/scripts/guitars_to_db.py
-    ```
+## Обновление базы данных
 
+Отправьте post запрос на адрес http://127.0.0.1:8000/update-db
+```bash
+curl -X 'POST' \
+'http://127.0.0.1:8000/update-db' \
+-H 'accept: application/json' \
+-d ''
+```
 ## Вклад
 
 Приветствуются любые вклады! Пожалуйста, откройте issue или отправьте pull request.
