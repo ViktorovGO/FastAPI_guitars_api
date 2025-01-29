@@ -71,8 +71,8 @@ async def get_guitars():
         await asyncio.gather(*tasks)
 
 
-if __name__ == "__main__":
-    asyncio.run(get_guitars())
+async def main():
+    await get_guitars()
 
     filtered_guitars = sorted(
         [
@@ -85,3 +85,8 @@ if __name__ == "__main__":
 
     with open("src/scripts/guitars.json", "w", encoding="utf-8") as file:
         json.dump(filtered_guitars, file, ensure_ascii=False, indent=4)
+    return filtered_guitars
+
+
+if __name__ == "__main__":
+    asyncio.run(main)

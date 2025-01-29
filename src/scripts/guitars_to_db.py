@@ -5,9 +5,6 @@ from sqlalchemy import select, update
 from src.guitars.models import Guitar
 from src.brands.models import Brand
 
-with open("src/scripts/guitars.json", "r") as file:
-    guitars = json.load(file)
-
 
 async def guitars_to_db(session: AsyncSession, guitars: list):
     """Запись данных по гитарам в базу данных"""
@@ -44,7 +41,7 @@ async def guitars_to_db(session: AsyncSession, guitars: list):
             await session.commit()
 
 
-async def main():
+async def main(guitars):
     async for session in db_helper.session_dependency():
         await guitars_to_db(session, guitars)
 
@@ -52,4 +49,7 @@ async def main():
 if __name__ == "__main__":
     import asyncio
 
-    asyncio.run(main())
+    with open("src/scripts/guitars.json", "r") as file:
+        guitars = json.load(file)
+
+    asyncio.run(main(guitars))
