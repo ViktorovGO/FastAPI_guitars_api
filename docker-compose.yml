@@ -1,7 +1,7 @@
 services:
   api:
-    image: fl4shr/fastapi_guitars_api-api:latest
-    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run python ./src/run.py"]
+    build: .
+    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run python ./src/run"]
     restart: always
     ports:
       - "${APP_PORT}:8000"
