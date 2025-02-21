@@ -5,12 +5,14 @@ from .scemas import GuitarCreate, Guitar, GuitarUpdate, GuitarUpdatePartial
 from src.brands.scemas import Brand
 from . import crud
 from .dependencies import guitar_by_id
+from fastapi_cache.decorator import cache
 
 
 router = APIRouter()
 
 
 @router.get("/guitars", response_model=list[Guitar])
+@cache(expire=60)
 async def get_guitars(session: AsyncSession = Depends(db_helper.session_dependency)):
     return await crud.get_guitars(session=session)
 

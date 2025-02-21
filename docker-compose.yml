@@ -1,7 +1,7 @@
 services:
   api:
     image: fl4shr/fastapi_guitars_api-api:latest
-    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run ./src/run"]
+    entrypoint: ["sh", "-c", "poetry run alembic upgrade head && poetry run python ./src/run.py"]
     restart: always
     ports:
       - "${APP_PORT}:8000"
@@ -14,6 +14,7 @@ services:
       - DEBUG=${DEBUG:-False}
     depends_on:
       - db
+      - redis
     
   db:
     image: postgres
@@ -36,6 +37,14 @@ services:
       - "82:80"
     depends_on:
       - db
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redisdata:/data
 
 volumes:
   pgdata:
+  redisdata:

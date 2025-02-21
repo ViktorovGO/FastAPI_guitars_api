@@ -10,7 +10,7 @@ LOG_DEFAULT_FORMAT = (
 )
 
 
-class db_settings(BaseSettings):
+class DbSettings(BaseSettings):
     DB_USER: str = Field(json_schema_extra=({"env": "DB_USER"}))
     DB_PASS: str = Field(json_schema_extra=({"env": "DB_PASS"}))
     DB_NAME: str = Field(json_schema_extra=({"env": "DB_NAME"}))
@@ -49,11 +49,18 @@ class LoggingConfig(BaseSettings):
     log_format: str = LOG_DEFAULT_FORMAT
 
 
+class RedisConfig(BaseSettings):
+    host: str = "redis"
+    port: int = 6379
+    redis_url: str = f"redis://{host}"
+
+
 class Settings(BaseSettings):
-    db: db_settings = db_settings()
+    db: DbSettings = DbSettings()
     run: Run = Run()
     gunicorn: GunicornConfig = GunicornConfig()
     logging: LoggingConfig = LoggingConfig()
+    redis: RedisConfig = RedisConfig()
 
     model_config = ConfigDict(env_file="../../.env")
 

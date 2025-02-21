@@ -1,21 +1,34 @@
 import uvicorn
 import logging
+from collections.abc import AsyncIterator
+from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
 from src.core import settings
 from src.guitars import guitar_router
 from src.brands import brand_router
 from src.scripts import get_guitars, update_guitars
-
+from fastapi_cache import FastAPICache
+from fastapi_cache.backends.redis import RedisBackend
+from redis import asyncio as aioredis
 
 logging.basicConfig(
     format=settings.logging.log_format,
 )
 
 
+@asynccontextmanager
+async def lifespan(_: FastAPI) -> AsyncIterator[None]:
+    redis = aioredis.from_url(settings.redis.redis_url)
+    FastAPICache.init(RedisBackend(redis), prefix="fastapi-cache")
+    yield
+
+
 app = FastAPI(
     title="Guitar API",
     description="API for guitars and guitar brands",
+    lifespan=lifespan,
 )
+
 
 app.include_router(guitar_router, tags=["Guitars"], prefix="/api/v1")
 app.include_router(brand_router, tags=["Brands"], prefix="/api/v1")
