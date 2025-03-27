@@ -13,7 +13,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/FastAPI_guitars_api.git
+    git clone https://github.com/ViktorovGO/FastAPI_guitars_api.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
